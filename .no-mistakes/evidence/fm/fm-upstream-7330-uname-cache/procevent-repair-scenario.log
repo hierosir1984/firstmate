@@ -1,0 +1,3 @@
+damaged rc=1 reconciled: published=0 started=0 stopped=0 uncertain=0 failed=1
+repeat damaged rc=1 reconciled: published=0 started=0 stopped=0 uncertain=0 failed=1
+repaired rc=0 reconciled: published=0 started=1 stopped=0 uncertain=0 failed=0

@@ -1,0 +1,1 @@
+profile=patched owner-lifetime=42s default-check=15s ready=accepted

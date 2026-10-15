@@ -1,0 +1,6 @@
+listener_poll=running
+# Detailed remote answer
+
+The build is green.
+poll_attempts=2
+listener_claim=retained

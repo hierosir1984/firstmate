@@ -1,0 +1,20 @@
+FM_TEST_BEGIN 2026-10-15T11:14:34Z tests/fm-extension-binding.test.sh family=standalone expected_gate_skip=none
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-backend.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-backend.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-backend.sh: No such file or directory
+not-autohandled: remote-source (left for the handler; still unacknowledged)
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-backend.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-extension-binding.wzh1J2/remote-root/bin/fm-backend.sh: No such file or directory
+ok - serialized remote binding crosses fm-on through addressed-home capture and retirement
+
+all extension-binding tests passed
+FM_TEST_END 2026-10-15T11:15:05Z tests/fm-extension-binding.test.sh exit=0 duration_ms=30658 gate_skip=false
+FM_TEST_SUMMARY total=1 failed=0 skipped_gate=0 duration_ms=31240
+FM_TEST_SUMMARY_FAMILY family=standalone count=1 duration_ms=30658 failed=0
+FM_TEST_SLOWEST rank=1 script=tests/fm-extension-binding.test.sh duration_ms=30658
+fm-test-run: wrote timing artifact: /home/ubuntu/.no-mistakes/evidence/01M4ZFVFSPPFS7TRB41XMZMYNV/extension-remote-results.json

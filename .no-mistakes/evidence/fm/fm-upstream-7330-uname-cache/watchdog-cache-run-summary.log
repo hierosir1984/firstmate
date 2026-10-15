@@ -1,0 +1,8 @@
+Public process-event run on a disposable FM_HOME and claim root; owner timing variables unset (default 15-second check interval).
+register: registered: watchdog-cache (lavish)
+after_20s start_alive=yes watchdog_alive=yes owner_watchdog_pid=3119168
+wrapper calls across the isolated register/start process tree: uname=63 id=0
+start_exit=0
+not-autohandled: watchdog-cache (left for the handler; still unacknowledged)
+captured: /tmp/fm-procevent-watchdog.gfeLMw/home/state/procevent-inbox/watchdog-cache.1.result
+The wrapper totals include separate helper processes and do not isolate a per-check uname delta; raw events are in watchdog-cache-calls.tsv.

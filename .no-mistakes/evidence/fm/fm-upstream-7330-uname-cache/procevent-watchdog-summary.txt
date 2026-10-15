@@ -1,0 +1,2 @@
+baseline execve=117 uname=24 id_u=9 owner_ticks=4 fork_clone=172
+patched execve=103 uname=19 id_u=0 owner_ticks=4 fork_clone=158

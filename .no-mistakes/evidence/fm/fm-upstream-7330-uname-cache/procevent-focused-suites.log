@@ -1,0 +1,100 @@
+FM_TEST_BEGIN 2026-10-15T09:58:15Z tests/fm-remote-reply.test.sh family=secondmate expected_gate_skip=none
+ok - default delta reader waits 0.5 seconds then delivers a non-destructive complete-line delta
+ok - override delta reader waits 0.07 seconds then delivers a non-destructive complete-line delta
+ok - a blocking non-destructive remote delta reaches durable process-event capture
+ok - a captured delta is applied, acknowledged, and re-armed without a handler
+ok - ingest appends one validated line, fetches its document, and advances the cursor
+ok - replayed capture has one deduplicated append and one durable handling identity
+ok - later generations cannot invalidate an unacknowledged ingested result
+ok - the remote status and decision model mirrors and the cursor advances
+ok - a remote mate's new decision folds open exactly as a local mate's does
+ok - a replayed mirrored delta is idempotent in both the stream and the cursor
+ok - transported control bytes are normalized in place and never stop the stream
+ok - payload protocol-field names cannot collide with transport metadata
+ok - NUL bytes are normalized in place before shell line processing
+ok - local document storage failures remain retryable until delivery succeeds
+ok - a structured pointer must end at its token boundary
+ok - adjacent pointers are fetched while malformed tokens remain unchanged
+ok - a rejected candidate never gives the following text a false leading boundary
+ok - nested remote reports relay while an undeliverable foreign pointer fails open
+ok - the reported incident raises no standing decision and still delivers the report
+ok - an undeliverable structured offer fails open with one note and never a decision
+ok - a remote refusal surfaces its own reason without opening a decision
+ok - a failed pointer extraction never commits a partial delta
+ok - a failed mirror write never drops status content or advances the cursor
+ok - source-line identity survives commit failure and cursor-loss recapture
+ok - a mirrored reserved-key line cannot squat or clear the parent's own decision
+ok - a reply that arrives after escalation resolves it and clears the open decision
+ok - a remote reply listener stays owned across empty waits and a delta
+ok - a failed remote read exits instead of relistening
+ok - persistent ingestion failure leaves exactly one durable capture
+ok - a preempted reply poll reports a closed window without publishing channel freshness
+ok - a preempted reply poll keeps its listener and reconcile launches nothing
+ok - a quiet reply window publishes the caught-up watermark the reply guard reads
+ok - a cursor-loss whole-log recapture is acknowledged quietly with no duplicate wake
+ok - truncation is detected, escalated once, and not silently rebased
+ok - a repeated continuity break after an operator resolve appends nothing
+ok - remote reply retirement quiesces and refuses unhandled captured results
+ok - a later continuity break after repair and re-advance opens the decision again
+ok - an old-format continuity line does not swallow the next break
+ok - a later continuity break after the cursor moves without retirement opens the decision again
+ok - a continuity break after retirement and an identical restore opens the decision once
+ok - a failed cursor removal does not increase the retirement count
+ok - a retirement that stops after removing the cursor leaves the old count
+ALL TESTS PASSED
+FM_TEST_END 2026-10-15T10:21:25Z tests/fm-remote-reply.test.sh exit=0 duration_ms=1390144 gate_skip=false
+FM_TEST_BEGIN 2026-10-15T10:21:25Z tests/fm-procevent.test.sh family=standalone expected_gate_skip=none
+FM_TEST_BEGIN 2026-10-15T10:21:25Z tests/fm-procevent-when.test.sh family=standalone expected_gate_skip=none
+FM_TEST_BEGIN 2026-10-15T10:21:25Z tests/fm-extension-binding.test.sh family=standalone expected_gate_skip=none
+ok - no configured source means no generated state and no process
+not ok - completion publishes the committed result sequence (missing: 'procevent lavish src-one 1')
+--- output ---
+check: process-event source src-one is registered but its launch did not prove it took the source's claim within FM_PROCEVENT_LAUNCH_CONFIRM_SECONDS, so nothing is confirmed to be collecting from it; reconcile reports that as failed= and keeps launching it every supervision cycle. If it stays that way, check the source command and the adapter binary the registration names, and run an attached bin/fm-procevent.sh start src-one to reproduce a refusal on its stderr - the detached launch discards it, and a hand-run reconcile only counts it as failed=. A later cycle that finds the source owned ends this episode on its own, so a runner that was merely slow to claim needs nothing from you.
+FM_TEST_END 2026-10-15T10:21:44Z tests/fm-procevent.test.sh exit=1 duration_ms=18969 gate_skip=false
+ok - unknown extension conformance section selectors fail before setup
+ok - the section coordinator propagates ordered failures and bounded cleanup
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-backend.sh: No such file or directory
+not-autohandled: example-file (left for the handler; still unacknowledged)
+not-autohandled: flow-source (left for the handler; still unacknowledged)
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-backend.sh: No such file or directory
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 257: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-task-inbox-lib.sh: No such file or directory
+/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-procevent.sh: line 259: /tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/remote-root/bin/fm-backend.sh: No such file or directory
+ok - the shipped file-signal package is a runnable end-to-end external adapter
+ok - one external adapter registers, invokes, captures unhandled evidence, classifies, and terminally retires end to end
+not-autohandled: remote-source (left for the handler; still unacknowledged)
+error: cannot establish the source launch boundary: example-symlinked
+not ok - an isolated extension conformance section failed
+FM_TEST_END 2026-10-15T10:22:01Z tests/fm-extension-binding.test.sh exit=1 duration_ms=35998 gate_skip=false
+ok - arm binds, refuses duplicates, and retire cleans up
+ok - concurrent arms publish exactly one complete watch
+ok - a stable true fires the action exactly once and wakes with the outcome
+ok - a flapping condition never reaches the action
+ok - an action failure wakes with the captured error
+ok - a repeatedly erroring condition wakes firstmate instead of firing
+ok - an expired deadline wakes with never-true
+ok - a late true poll cannot fire after its deadline
+ok - action timeouts terminate the complete process group
+ok - command output staging stays within its byte bound
+ok - a restart after a claimed fire reports ambiguity instead of double-firing
+ok - a mutated spec is refused without executing anything
+ok - mutated action bytes are refused before claiming the fire
+ok - rebind-all refreshes an in-repo watch's trust binding after a self-update and leaves an out-of-repo one alone
+ok - rebind-all matches FM_ROOT through a symlinked checkout path
+ok - rebind-all reaches a watch whose run process was already polling when the self-update landed
+ok - the fire-time reload never observes rebind_one's spec/trust publish mid-rename
+all fm-procevent-when tests passed
+FM_TEST_END 2026-10-15T10:23:44Z tests/fm-procevent-when.test.sh exit=0 duration_ms=138752 gate_skip=false
+FM_TEST_SUMMARY total=4 failed=2 skipped_gate=0 duration_ms=1530916
+FM_TEST_SUMMARY_FAMILY family=secondmate count=1 duration_ms=1390144 failed=0
+FM_TEST_SUMMARY_FAMILY family=standalone count=3 duration_ms=193719 failed=2
+FM_TEST_SLOWEST rank=1 script=tests/fm-remote-reply.test.sh duration_ms=1390144
+FM_TEST_SLOWEST rank=2 script=tests/fm-procevent-when.test.sh duration_ms=138752
+FM_TEST_SLOWEST rank=3 script=tests/fm-extension-binding.test.sh duration_ms=35998
+FM_TEST_SLOWEST rank=4 script=tests/fm-procevent.test.sh duration_ms=18969
+rm: cannot remove '/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/homes/remote-home/data/extensions/packages/org.example.remote/1.2.3/97bab5c37089bf44bd7d994f8fdf6f77a041c92e14c2cae92ad228b944f0333c/scenario': Permission denied
+rm: cannot remove '/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/homes/remote-home/data/extensions/packages/org.example.remote/1.2.3/97bab5c37089bf44bd7d994f8fdf6f77a041c92e14c2cae92ad228b944f0333c/helper.txt': Permission denied
+rm: cannot remove '/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/homes/remote-home/data/extensions/packages/org.example.remote/1.2.3/97bab5c37089bf44bd7d994f8fdf6f77a041c92e14c2cae92ad228b944f0333c/firstmate-extension.json': Permission denied
+rm: cannot remove '/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/homes/remote-home/data/extensions/packages/org.example.remote/1.2.3/97bab5c37089bf44bd7d994f8fdf6f77a041c92e14c2cae92ad228b944f0333c/entrypoint.py': Permission denied
+rm: cannot remove '/tmp/fm-test-run.yUJx86/w4/tmp/fm-extension-binding.iIOuGN/homes/remote-home/data/extensions/packages/org.example.remote/1.2.3/97bab5c37089bf44bd7d994f8fdf6f77a041c92e14c2cae92ad228b944f0333c/nested/evidence.txt': Permission denied

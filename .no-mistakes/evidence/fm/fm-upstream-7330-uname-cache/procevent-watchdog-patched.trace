@@ -1,0 +1,942 @@
+933549 19:57:43.913247 execve("/usr/bin/env", ["env", "-u", "NO_MISTAKES_GATE", "-u", "FM_GATE_REFUSE_BYPASS", "-u", "FM_STATE_OVERRIDE", "-u", "STATE", "-u", "FM_DATA_OVERRIDE", "-u", "FM_CONFIG_OVERRIDE", "-u", "FM_PROJECTS_OVERRIDE", "-u", "FM_PROCEVENT_OWNER_CHECK_SECONDS", "-u", "FM_PROCEVENT_OWNER_LEASE_SECONDS", "FM_ROOT_OVERRIDE=/home/ubuntu/.n"..., "FM_HOME=/tmp/fm-procevent-watchd"..., "FM_STATE_OVERRIDE=/tmp/fm-procev"..., "FM_PROCEVENT_CLAIM_ROOT=/tmp/fm-"..., "perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., ...], 0x7fff77d7ac18 /* 61 vars */) = 0
+933549 19:57:43.922503 execve("/home/ubuntu/.bun/install/global/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922689 execve("/home/ubuntu/.grok/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922748 execve("/home/ubuntu/.npm-global/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922804 execve("/home/ubuntu/.clawdbot/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922857 execve("/home/ubuntu/.local/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922929 execve("/home/ubuntu/.atuin/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.922999 execve("/home/ubuntu/go/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923138 execve("/home/ubuntu/.cargo/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923199 execve("/home/ubuntu/.local/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923274 execve("/home/ubuntu/.local/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923324 execve("/home/ubuntu/.local/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923373 execve("/home/ubuntu/.cargo/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923425 execve("/usr/local/sbin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923482 execve("/usr/local/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923542 execve("/usr/sbin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = -1 ENOENT (No such file or directory)
+933549 19:57:43.923654 execve("/usr/bin/perl", ["perl", "-e", "my $mode = shift @ARGV; defined("..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x63531175d350 /* 64 vars */) = 0
+933549 19:57:43.941794 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x70317e425e90) = 933625
+933549 19:57:43.942320 wait4(933625 <unfinished ...>
+933625 19:57:43.945093 execve("/home/ubuntu/.no-mistakes/worktrees/def584fb9f7e/01M4ZFVFSPPFS7TRB41XMZMYNV/bin/fm-procevent.sh", ["/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x64b05a822ec0 /* 65 vars */) = 0
+933625 19:57:43.960027 execve("/home/ubuntu/.bun/install/global/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960232 execve("/home/ubuntu/.grok/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960329 execve("/home/ubuntu/.npm-global/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960435 execve("/home/ubuntu/.clawdbot/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960502 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960566 execve("/home/ubuntu/.atuin/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960681 execve("/home/ubuntu/go/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960745 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960809 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.960865 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961021 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961123 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961191 execve("/usr/local/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961258 execve("/usr/local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961319 execve("/usr/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = -1 ENOENT (No such file or directory)
+933625 19:57:43.961379 execve("/usr/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "profile-patched", "933417", "linux-starttime=57571193 cmdline"..., "/tmp/fm-procevent-watchdog.LgTUW"..., "35", "3892169"], 0x7ffc21812030 /* 65 vars */) = 0
+933625 19:57:43.971273 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933673
+933673 19:57:43.998456 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933708
+933708 19:57:44.003930 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5bb352da7d40 /* 65 vars */) = 0
+933708 19:57:44.023628 exit_group(0)    = ?
+933673 19:57:44.025488 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 933708
+933673 19:57:44.025730 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933708, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933673 19:57:44.025768 wait4(-1, 0x7ffc393675d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933673 19:57:44.026566 exit_group(0)    = ?
+933625 19:57:44.027616 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933673, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.027670 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 933673
+933625 19:57:44.027726 wait4(-1, 0x7ffc39367214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.045039 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933806
+933806 19:57:44.048659 exit_group(0)    = ?
+933625 19:57:44.049249 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 933806
+933625 19:57:44.049360 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933806, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.049389 wait4(-1, 0x7ffc39367994, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.049937 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933814
+933814 19:57:44.054785 exit_group(0)    = ?
+933625 19:57:44.057692 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933814, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.058467 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 933814
+933625 19:57:44.058548 wait4(-1, 0x7ffc39367b94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.061334 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933837
+933837 19:57:44.066872 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933852
+933837 19:57:44.068906 wait4(-1 <unfinished ...>
+933852 19:57:44.069039 execve("/usr/bin/uname", ["uname"], 0x5bb352dabf70 /* 65 vars */) = 0
+933852 19:57:44.088643 exit_group(0)    = ?
+933837 19:57:44.089764 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 933852
+933837 19:57:44.097386 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933852, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933837 19:57:44.097471 wait4(-1, 0x7ffc393677d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933837 19:57:44.097689 exit_group(0)    = ?
+933625 19:57:44.098234 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933837, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.098641 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 933837
+933625 19:57:44.099001 wait4(-1, 0x7ffc39366cd4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.105056 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933915
+933625 19:57:44.106852 wait4(-1 <unfinished ...>
+933915 19:57:44.109791 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352dabf70 /* 65 vars */) = 0
+933915 19:57:44.123000 exit_group(0)    = ?
+933625 19:57:44.123651 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 933915
+933625 19:57:44.123800 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933915, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.123853 wait4(-1, 0x7ffc393680d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.140673 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 933990
+933990 19:57:44.148443 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934004
+934004 19:57:44.154851 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5bb352e655c0 /* 65 vars */) = 0
+934004 19:57:44.168533 exit_group(0)    = ?
+933990 19:57:44.169949 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934004
+933990 19:57:44.170557 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934004, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933990 19:57:44.170619 wait4(-1, 0x7ffc39366f94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933990 19:57:44.171310 exit_group(0)    = ?
+933625 19:57:44.173780 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933990, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.173872 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 933990
+933625 19:57:44.173961 wait4(-1, 0x7ffc39367c14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.174957 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934059
+934059 19:57:44.179174 exit_group(0)    = ?
+933625 19:57:44.180554 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934059, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.180661 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934059
+933625 19:57:44.181193 wait4(-1, 0x7ffc39366594, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.185721 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934077
+934077 19:57:44.189652 exit_group(0)    = ?
+933625 19:57:44.193665 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934077, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.193827 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934077
+933625 19:57:44.193941 wait4(-1, 0x7ffc393675d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.198644 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934094
+934094 19:57:44.212871 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934119
+934094 19:57:44.218848 wait4(-1 <unfinished ...>
+934119 19:57:44.219384 execve("/usr/bin/uname", ["uname"], 0x5bb352e659b0 /* 65 vars */) = 0
+934119 19:57:44.253822 exit_group(0)    = ?
+934094 19:57:44.255727 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934119
+934094 19:57:44.256125 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934119, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+934094 19:57:44.256172 wait4(-1, 0x7ffc39367194, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934094 19:57:44.256432 exit_group(0)    = ?
+933625 19:57:44.257354 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934094
+933625 19:57:44.257501 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934094, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.257535 wait4(-1, 0x7ffc39367454, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.258002 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934208
+934208 19:57:44.259620 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352e659b0 /* 65 vars */ <unfinished ...>
+933625 19:57:44.260362 wait4(-1 <unfinished ...>
+934208 19:57:44.262866 <... execve resumed>) = 0
+934208 19:57:44.289176 exit_group(0)    = ?
+933625 19:57:44.290272 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934208
+933625 19:57:44.290675 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934208, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.290719 wait4(-1, 0x7ffc39367a94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.312378 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934299
+934299 19:57:44.318795 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934322
+934322 19:57:44.329152 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5bb352e659b0 /* 65 vars */) = 0
+934322 19:57:44.339485 exit_group(0)    = ?
+934299 19:57:44.340356 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934322, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934299 19:57:44.340407 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934322
+934299 19:57:44.340485 wait4(-1, 0x7ffc39366c54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934299 19:57:44.341282 exit_group(0)    = ?
+933625 19:57:44.341926 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934299
+933625 19:57:44.342126 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934299, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.342162 wait4(-1, 0x7ffc39367354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.342540 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934365
+934365 19:57:44.352171 exit_group(0)    = ?
+933625 19:57:44.353605 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934365
+933625 19:57:44.358870 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934365, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.358929 wait4(-1, 0x7ffc39367354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.384186 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934443
+934443 19:57:44.387027 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934452
+934452 19:57:44.393382 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5bb352e5ecf0 /* 65 vars */) = 0
+934452 19:57:44.406812 exit_group(0)    = ?
+934443 19:57:44.408224 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934452, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934443 19:57:44.408274 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934452
+934443 19:57:44.408854 wait4(-1, 0x7ffc39367294, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934443 19:57:44.409500 exit_group(0)    = ?
+933625 19:57:44.410203 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934443
+933625 19:57:44.410296 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934443, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.410315 wait4(-1, 0x7ffc39367994, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.410678 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934500
+934500 19:57:44.414229 exit_group(0)    = ?
+933625 19:57:44.417166 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934500, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.417464 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934500
+933625 19:57:44.417646 wait4(-1, 0x7ffc39367c14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.427029 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934532
+934532 19:57:44.432131 exit_group(0)    = ?
+933625 19:57:44.435024 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934532, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.435314 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934532
+933625 19:57:44.436877 wait4(-1, 0x7ffc39367314, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.437624 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934560
+934560 19:57:44.447080 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934589
+934589 19:57:44.451736 exit_group(0)    = ?
+934560 19:57:44.452549 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934589
+934560 19:57:44.452672 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934589, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934560 19:57:44.452703 wait4(-1, 0x7ffc393662d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934560 19:57:44.453238 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934602
+934602 19:57:44.458898 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934625
+934602 19:57:44.468843 wait4(-1 <unfinished ...>
+934625 19:57:44.469814 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352e5ecf0 /* 65 vars */) = 0
+934625 19:57:44.494221 exit_group(0)    = ?
+934602 19:57:44.495159 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934625
+934602 19:57:44.495301 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934625, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+934602 19:57:44.495333 wait4(-1, 0x7ffc39364d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934602 19:57:44.495476 exit_group(0)    = ?
+934560 19:57:44.496225 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934602, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934560 19:57:44.496877 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934602
+934560 19:57:44.496962 wait4(-1, 0x7ffc39364114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934560 19:57:44.497512 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934699
+934699 19:57:44.503135 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934713
+934713 19:57:44.510868 execve("/usr/bin/uname", ["uname"], 0x5bb35302e1e0 /* 65 vars */) = 0
+934713 19:57:44.561162 exit_group(0)    = ?
+934699 19:57:44.565212 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934713, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+934699 19:57:44.565409 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934713
+934699 19:57:44.565578 wait4(-1, 0x7ffc39363ad4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934699 19:57:44.577968 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 934916
+934699 19:57:44.580768 wait4(-1 <unfinished ...>
+934916 19:57:44.583479 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352e5ecf0 /* 65 vars */) = 0
+934916 19:57:44.654879 exit_group(0)    = ?
+934699 19:57:44.656267 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 934916
+934699 19:57:44.656522 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934916, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+934699 19:57:44.656565 wait4(-1, 0x7ffc39365014, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934699 19:57:44.656810 exit_group(0)    = ?
+934560 19:57:44.658142 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934699, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934560 19:57:44.658236 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934699
+934560 19:57:44.658337 wait4(-1, 0x7ffc39364a14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934560 19:57:44.658957 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935115
+935115 19:57:44.670823 exit_group(0)    = ?
+934560 19:57:44.674241 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935115, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+934560 19:57:44.674427 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 935115
+934560 19:57:44.674523 wait4(-1, 0x7ffc39364d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934560 19:57:44.675434 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935151
+935151 19:57:44.714491 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935228
+935228 19:57:44.720282 exit_group(0)    = ?
+935151 19:57:44.722653 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935228, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+935151 19:57:44.722756 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 935228
+935151 19:57:44.722827 wait4(-1, 0x7ffc39363f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+935151 19:57:44.725849 exit_group(0)    = ?
+934560 19:57:44.727043 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935151, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+934560 19:57:44.727178 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 935151
+934560 19:57:44.727635 wait4(-1, 0x7ffc39364e14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+934560 19:57:44.732297 exit_group(0)    = ?
+933625 19:57:44.735943 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=934560, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933625 19:57:44.736313 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 934560
+933625 19:57:44.737567 wait4(-1, 0x7ffc39366614, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.743097 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935318
+935318 19:57:44.752407 exit_group(0)    = ?
+933625 19:57:44.754096 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935318, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:44.755189 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 935318
+933625 19:57:44.756503 wait4(-1, 0x7ffc39366814, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:44.781657 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935416
+935416 19:57:44.792073 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935438
+935416 19:57:44.801252 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 935463
+935416 19:57:44.807040 wait4(-1 <unfinished ...>
+935438 19:57:44.814688 execve("/usr/bin/ps", ["ps", "-o", "pgid=", "-p", "933625"], 0x5bb3530ed240 /* 65 vars */) = 0
+935463 19:57:44.820281 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5bb3530ed240 /* 65 vars */) = 0
+935438 19:57:45.472475 exit_group(0)    = ?
+935463 19:57:45.473476 exit_group(0)    = ?
+935416 19:57:45.476642 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 935438
+935416 19:57:45.476878 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 935463
+935416 19:57:45.488409 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935438, si_uid=1000, si_status=0, si_utime=2 /* 0.02 s */, si_stime=25 /* 0.25 s */} ---
+935416 19:57:45.488547 wait4(-1, 0x7ffc39365f54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+935416 19:57:45.488858 exit_group(0)    = ?
+933625 19:57:45.490755 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=935416, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933625 19:57:45.491369 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 935416
+933625 19:57:45.491854 wait4(-1, 0x7ffc39365254, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:45.503318 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936562
+936562 19:57:45.520827 exit_group(0)    = ?
+933625 19:57:45.521840 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936562
+933625 19:57:45.521981 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936562, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:45.523807 wait4(-1, 0x7ffc39366a14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:45.533144 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936606
+936606 19:57:45.536553 exit_group(0)    = ?
+933625 19:57:45.538730 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936606, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:45.538822 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936606
+933625 19:57:45.540226 wait4(-1, 0x7ffc39366e14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:45.544691 kill(933417, 0)  = 0
+933625 19:57:45.545194 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936623
+936623 19:57:45.549061 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936630
+936630 19:57:45.559278 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936645
+936630 19:57:45.564386 wait4(-1 <unfinished ...>
+936645 19:57:45.566690 execve("/usr/bin/cat", ["cat", "/proc/933417/stat"], 0x5bb3530ed240 /* 64 vars */) = 0
+936645 19:57:45.578034 exit_group(0)    = ?
+936630 19:57:45.580778 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936645
+936630 19:57:45.583164 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936645, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936630 19:57:45.583248 wait4(-1, 0x7ffc39364854, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936630 19:57:45.583758 exit_group(0)    = ?
+936623 19:57:45.584829 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936630, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936623 19:57:45.584900 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936630
+936623 19:57:45.584969 wait4(-1, 0x7ffc39363c54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936623 19:57:45.597481 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936716
+936716 19:57:45.606470 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936733
+936716 19:57:45.607482 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936734
+936716 19:57:45.608971 wait4(-1 <unfinished ...>
+936734 19:57:45.613253 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+936733 19:57:45.615412 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/933417/cmdline"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+936734 19:57:45.615942 <... execve resumed>) = 0
+936733 19:57:45.617511 <... execve resumed>) = 0
+936733 19:57:45.636140 exit_group(0)    = ?
+936716 19:57:45.652369 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936733
+936716 19:57:45.652502 wait4(-1 <unfinished ...>
+936734 19:57:45.676244 exit_group(0)    = ?
+936716 19:57:45.680350 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936734
+936716 19:57:45.680672 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936733, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936716 19:57:45.680717 wait4(-1, 0x7ffc39364d94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936716 19:57:45.681141 exit_group(0)    = ?
+936623 19:57:45.681996 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936716, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936623 19:57:45.683899 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936716
+936623 19:57:45.684197 wait4(-1, 0x7ffc39364094, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936623 19:57:45.695348 exit_group(0)    = ?
+933625 19:57:45.702412 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936623, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933625 19:57:45.702904 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936623
+933625 19:57:45.703090 wait4(-1, 0x7ffc39365954, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:45.716661 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936884
+936884 19:57:45.722064 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936894
+936894 19:57:45.726343 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936898
+936898 19:57:45.735050 exit_group(0)    = ?
+936894 19:57:45.737983 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936898
+936894 19:57:45.738191 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936898, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936894 19:57:45.738227 wait4(-1, 0x7ffc39364c14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936894 19:57:45.738895 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936917
+936917 19:57:45.757457 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936937
+936917 19:57:45.764002 wait4(-1 <unfinished ...>
+936937 19:57:45.764954 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+936937 19:57:45.794422 exit_group(0)    = ?
+936917 19:57:45.796671 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936937
+936917 19:57:45.801738 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936937, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936917 19:57:45.801829 wait4(-1, 0x7ffc39363654, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936917 19:57:45.802000 exit_group(0)    = ?
+936894 19:57:45.802971 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936917, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936894 19:57:45.803685 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936917
+936894 19:57:45.803901 wait4(-1, 0x7ffc39362a54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936894 19:57:45.809018 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 936990
+936990 19:57:45.835028 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937030
+937030 19:57:45.850890 execve("/usr/bin/uname", ["uname"], 0x5bb3530f2630 /* 64 vars */) = 0
+937030 19:57:45.864278 exit_group(0)    = ?
+936990 19:57:45.865166 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937030, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936990 19:57:45.865226 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937030
+936990 19:57:45.865304 wait4(-1, 0x7ffc39363514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936990 19:57:45.866718 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937091
+936990 19:57:45.883116 wait4(-1 <unfinished ...>
+937091 19:57:45.894575 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+937091 19:57:45.910798 exit_group(0)    = ?
+936990 19:57:45.911905 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937091
+936990 19:57:45.912038 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937091, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936990 19:57:45.912082 wait4(-1, 0x7ffc39363914, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936990 19:57:45.912320 exit_group(0)    = ?
+936894 19:57:45.913786 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936990
+936894 19:57:45.913935 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936990, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936894 19:57:45.914421 wait4(-1, 0x7ffc39364114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936894 19:57:45.914928 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937151
+937151 19:57:45.926199 exit_group(0)    = ?
+936894 19:57:45.927603 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937151
+936894 19:57:45.927916 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937151, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936894 19:57:45.927952 wait4(-1, 0x7ffc39364414, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936894 19:57:45.928276 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937166
+937166 19:57:45.935213 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937177
+937177 19:57:45.940962 exit_group(0)    = ?
+937166 19:57:45.942020 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937177
+937166 19:57:45.942224 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937177, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+937166 19:57:45.942262 wait4(-1, 0x7ffc39363614, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937166 19:57:45.942671 exit_group(0)    = ?
+936894 19:57:45.943877 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937166
+936894 19:57:45.944073 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937166, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936894 19:57:45.944115 wait4(-1, 0x7ffc39364514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936894 19:57:45.945447 exit_group(0)    = ?
+936884 19:57:45.946862 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936894, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936884 19:57:45.946991 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 936894
+936884 19:57:45.947128 wait4(-1, 0x7ffc39364f54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936884 19:57:45.948064 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937188
+937188 19:57:45.949718 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937191
+937191 19:57:45.963506 execve("/usr/bin/uname", ["uname"], 0x5bb3530ed240 /* 64 vars */) = 0
+937191 19:57:46.014956 exit_group(0)    = ?
+937188 19:57:46.023885 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937191, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+937188 19:57:46.023963 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937191
+937188 19:57:46.024263 wait4(-1, 0x7ffc393652d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937188 19:57:46.030381 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937260
+937188 19:57:46.042144 wait4(-1 <unfinished ...>
+937260 19:57:46.042503 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+937260 19:57:46.065021 exit_group(0)    = ?
+937188 19:57:46.066004 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937260
+937188 19:57:46.066185 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937260, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+937188 19:57:46.066227 wait4(-1, 0x7ffc39365714, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937188 19:57:46.066467 exit_group(0)    = ?
+936884 19:57:46.068089 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937188, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+936884 19:57:46.068182 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937188
+936884 19:57:46.068283 wait4(-1, 0x7ffc39365154, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936884 19:57:46.068934 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937294
+937294 19:57:46.076197 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937301
+937301 19:57:46.096057 execve("/usr/bin/uname", ["uname"], 0x5bb3530ed240 /* 64 vars */) = 0
+937301 19:57:46.154076 exit_group(0)    = ?
+937294 19:57:46.156264 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937301
+937294 19:57:46.156453 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937301, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+937294 19:57:46.156487 wait4(-1, 0x7ffc393650d4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937294 19:57:46.157381 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937379
+937379 19:57:46.160493 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+937294 19:57:46.165365 wait4(-1 <unfinished ...>
+937379 19:57:46.179547 exit_group(0)    = ?
+937294 19:57:46.183031 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937379
+937294 19:57:46.184351 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937379, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+937294 19:57:46.184454 wait4(-1, 0x7ffc39365814, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937294 19:57:46.184713 exit_group(0)    = ?
+936884 19:57:46.190148 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937294, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936884 19:57:46.190326 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937294
+936884 19:57:46.190417 wait4(-1, 0x7ffc39365254, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936884 19:57:46.191050 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937409
+937409 19:57:46.222828 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937431
+937431 19:57:46.246982 execve("/usr/bin/uname", ["uname"], 0x5bb3530ed240 /* 64 vars */) = 0
+937431 19:57:46.267753 exit_group(0)    = ?
+937409 19:57:46.272492 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937431, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+937409 19:57:46.272795 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937431
+937409 19:57:46.274175 wait4(-1, 0x7ffc39364514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937409 19:57:46.276059 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937491
+937409 19:57:46.283323 wait4(-1 <unfinished ...>
+937491 19:57:46.284820 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+937491 19:57:46.305314 exit_group(0)    = ?
+937409 19:57:46.307345 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937491
+937409 19:57:46.307550 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937491, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+937409 19:57:46.307615 wait4(-1, 0x7ffc39365a14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937409 19:57:46.307837 exit_group(0)    = ?
+936884 19:57:46.308890 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937409, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+936884 19:57:46.309000 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937409
+936884 19:57:46.309215 wait4(-1, 0x7ffc39365454, WNOHANG, NULL) = -1 ECHILD (No child processes)
+936884 19:57:46.310422 exit_group(0)    = ?
+933625 19:57:46.313221 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 936884
+933625 19:57:46.313440 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=936884, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+933625 19:57:46.313485 wait4(-1, 0x7ffc39367214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:46.325502 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937554
+937554 19:57:46.335471 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937565
+937565 19:57:46.339817 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937571
+937571 19:57:46.353989 exit_group(0)    = ?
+937565 19:57:46.355000 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937571
+937565 19:57:46.355165 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937571, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+937565 19:57:46.355299 wait4(-1, 0x7ffc39364dd4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937565 19:57:46.357612 exit_group(0)    = ?
+937554 19:57:46.359196 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937565, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+937554 19:57:46.359270 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937565
+937554 19:57:46.361132 wait4(-1, 0x7ffc39365f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+937554 19:57:46.365404 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "\n    use strict;\n    use warning"..., "575712.129521"], 0x5bb3530ed240 /* 64 vars */) = 0
+937554 19:57:46.407033 exit_group(0)    = ?
+933625 19:57:46.408657 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937554, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933625 19:57:46.409518 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 937554
+933625 19:57:46.411485 wait4(-1, 0x7ffc39365f54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:46.428251 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 937694
+933625 19:57:46.431267 wait4(-1 <unfinished ...>
+937694 19:57:46.432181 execve("/usr/bin/sleep", ["sleep", "7.5"], 0x5bb3530ed240 /* 64 vars */) = 0
+937694 19:57:53.953398 exit_group(0)    = ?
+933625 19:57:53.956148 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 937694
+933625 19:57:53.958165 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=937694, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+933625 19:57:53.958709 wait4(-1, 0x7ffc39367314, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:53.965430 kill(933417, 0)  = 0
+933625 19:57:53.970965 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941758
+941758 19:57:53.981332 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941762
+941762 19:57:53.988489 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941765
+941762 19:57:53.992687 wait4(-1 <unfinished ...>
+941765 19:57:53.999545 execve("/usr/bin/cat", ["cat", "/proc/933417/stat"], 0x5bb3530ed240 /* 64 vars */) = 0
+941765 19:57:54.037803 exit_group(0)    = ?
+941762 19:57:54.040330 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 941765
+941762 19:57:54.041575 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941765, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941762 19:57:54.041986 wait4(-1, 0x7ffc39364554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941762 19:57:54.042578 exit_group(0)    = ?
+941758 19:57:54.046110 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941762, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+941758 19:57:54.046374 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941762
+941758 19:57:54.047633 wait4(-1, 0x7ffc39363954, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941758 19:57:54.141616 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941812
+941812 19:57:54.154229 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941817
+941812 19:57:54.159380 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941820
+941812 19:57:54.162845 wait4(-1 <unfinished ...>
+941817 19:57:54.179018 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/933417/cmdline"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+941820 19:57:54.180492 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+941817 19:57:54.181280 <... execve resumed>) = 0
+941820 19:57:54.182467 <... execve resumed>) = 0
+941817 19:57:54.256150 exit_group(0)    = ?
+941812 19:57:54.258393 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 941817
+941812 19:57:54.258706 wait4(-1 <unfinished ...>
+941820 19:57:54.259055 exit_group(0)    = ?
+941812 19:57:54.260102 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 941820
+941812 19:57:54.262782 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941817, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+941812 19:57:54.263205 wait4(-1, 0x7ffc39364a94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941812 19:57:54.264655 exit_group(0)    = ?
+941758 19:57:54.265964 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941812, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+941758 19:57:54.266252 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941812
+941758 19:57:54.267327 wait4(-1, 0x7ffc39363d54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941758 19:57:54.274124 exit_group(0)    = ?
+933625 19:57:54.277187 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941758, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+933625 19:57:54.278102 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941758
+933625 19:57:54.278958 wait4(-1, 0x7ffc39365654, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:54.288560 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941856
+941856 19:57:54.316872 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941864
+941864 19:57:54.346281 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941880
+941880 19:57:54.388495 exit_group(0)    = ?
+941864 19:57:54.390689 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941880, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+941864 19:57:54.390905 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941880
+941864 19:57:54.391334 wait4(-1, 0x7ffc39363b14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941864 19:57:54.406163 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941908
+941908 19:57:54.438026 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941921
+941908 19:57:54.448974 wait4(-1 <unfinished ...>
+941921 19:57:54.460090 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+941921 19:57:54.538573 exit_group(0)    = ?
+941908 19:57:54.544719 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 941921
+941908 19:57:54.546258 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941921, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+941908 19:57:54.546513 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941908 19:57:54.548180 exit_group(0)    = ?
+941864 19:57:54.550161 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941908, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941864 19:57:54.550368 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941908
+941864 19:57:54.550906 wait4(-1, 0x7ffc39362754, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941864 19:57:54.573321 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 941997
+941997 19:57:54.607984 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942020
+942020 19:57:54.635056 execve("/usr/bin/uname", ["uname"], 0x5bb3530f4150 /* 64 vars */) = 0
+942020 19:57:54.715984 exit_group(0)    = ?
+941997 19:57:54.718761 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942020, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+941997 19:57:54.719715 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942020
+941997 19:57:54.720890 wait4(-1, 0x7ffc39362114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941997 19:57:54.733995 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942113
+941997 19:57:54.736569 wait4(-1 <unfinished ...>
+942113 19:57:54.743846 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+942113 19:57:54.806235 exit_group(0)    = ?
+941997 19:57:54.809132 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 942113
+941997 19:57:54.810759 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942113, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941997 19:57:54.811533 wait4(-1, 0x7ffc39363614, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941997 19:57:54.812258 exit_group(0)    = ?
+941864 19:57:54.814113 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941997, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+941864 19:57:54.814525 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941997
+941864 19:57:54.815115 wait4(-1, 0x7ffc39363054, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941864 19:57:54.822778 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942175
+942175 19:57:54.832315 exit_group(0)    = ?
+941864 19:57:54.836139 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942175, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+941864 19:57:54.837097 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942175
+941864 19:57:54.837779 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941864 19:57:54.848209 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942187
+942187 19:57:54.922039 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942218
+942218 19:57:54.935208 exit_group(0)    = ?
+942187 19:57:54.937934 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942218, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+942187 19:57:54.938145 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942218
+942187 19:57:54.938831 wait4(-1, 0x7ffc39362554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942187 19:57:54.944973 exit_group(0)    = ?
+941864 19:57:54.946641 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942187, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+941864 19:57:54.947362 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942187
+941864 19:57:54.948328 wait4(-1, 0x7ffc39363454, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941864 19:57:54.950896 exit_group(0)    = ?
+941856 19:57:54.952161 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941864, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+941856 19:57:54.952314 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941864
+941856 19:57:54.952469 wait4(-1, 0x7ffc39364c14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941856 19:57:54.956486 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942233
+942233 19:57:54.999756 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942242
+942242 19:57:55.030627 execve("/usr/bin/uname", ["uname"], 0x5bb352da4220 /* 64 vars */) = 0
+942242 19:57:55.100300 exit_group(0)    = ?
+942233 19:57:55.102107 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942242, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+942233 19:57:55.102422 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942242
+942233 19:57:55.102908 wait4(-1, 0x7ffc39363f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942233 19:57:55.113026 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942264
+942233 19:57:55.123046 wait4(-1 <unfinished ...>
+942264 19:57:55.134006 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da4220 /* 64 vars */) = 0
+942264 19:57:55.232325 exit_group(0)    = ?
+942233 19:57:55.237786 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 942264
+942233 19:57:55.238763 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942264, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+942233 19:57:55.238922 wait4(-1, 0x7ffc39365414, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942233 19:57:55.239833 exit_group(0)    = ?
+941856 19:57:55.242122 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942233, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941856 19:57:55.242245 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942233
+941856 19:57:55.243018 wait4(-1, 0x7ffc39364e14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941856 19:57:55.254706 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942324
+942324 19:57:55.274497 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942329
+942329 19:57:55.317760 execve("/usr/bin/uname", ["uname"], 0x5bb352da4220 /* 64 vars */) = 0
+942329 19:57:55.412665 exit_group(0)    = ?
+942324 19:57:55.417722 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942329, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+942324 19:57:55.418724 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942329
+942324 19:57:55.420249 wait4(-1, 0x7ffc39364014, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942324 19:57:55.435819 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942395
+942324 19:57:55.440500 wait4(-1 <unfinished ...>
+942395 19:57:55.447227 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da4220 /* 64 vars */) = 0
+942395 19:57:55.531287 exit_group(0)    = ?
+942324 19:57:55.533500 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 942395
+942324 19:57:55.533938 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942395, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+942324 19:57:55.534095 wait4(-1, 0x7ffc39365514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942324 19:57:55.534606 exit_group(0)    = ?
+941856 19:57:55.535724 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942324, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941856 19:57:55.536498 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942324
+941856 19:57:55.536740 wait4(-1, 0x7ffc39364f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941856 19:57:55.543005 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942443
+942443 19:57:55.560776 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942451
+942451 19:57:55.596011 execve("/usr/bin/uname", ["uname"], 0x5bb352da4220 /* 64 vars */) = 0
+942451 19:57:55.652392 exit_group(0)    = ?
+942443 19:57:55.653455 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942451, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+942443 19:57:55.653633 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942451
+942443 19:57:55.653958 wait4(-1, 0x7ffc39364214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942443 19:57:55.677862 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942511
+942443 19:57:55.689171 wait4(-1 <unfinished ...>
+942511 19:57:55.700173 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da4220 /* 64 vars */) = 0
+942511 19:57:55.778688 exit_group(0)    = ?
+942443 19:57:55.781762 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 942511
+942443 19:57:55.782454 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942511, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+942443 19:57:55.782525 wait4(-1, 0x7ffc39365714, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942443 19:57:55.785102 exit_group(0)    = ?
+941856 19:57:55.786721 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942443, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+941856 19:57:55.787176 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942443
+941856 19:57:55.787713 wait4(-1, 0x7ffc39365114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+941856 19:57:55.793443 exit_group(0)    = ?
+933625 19:57:55.796637 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=941856, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+933625 19:57:55.796846 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 941856
+933625 19:57:55.797119 wait4(-1, 0x7ffc39366214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:55.839579 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942592
+942592 19:57:55.848112 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942595
+942595 19:57:55.861114 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942604
+942604 19:57:55.875893 exit_group(0)    = ?
+942595 19:57:55.876845 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942604, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+942595 19:57:55.877311 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942604
+942595 19:57:55.877934 wait4(-1, 0x7ffc39363d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942595 19:57:55.883496 exit_group(0)    = ?
+942592 19:57:55.884728 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942595, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+942592 19:57:55.884855 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942595
+942592 19:57:55.885054 wait4(-1, 0x7ffc39364b54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+942592 19:57:55.921312 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "\n    use strict;\n    use warning"..., "575712.129521"], 0x5bb3530ed240 /* 64 vars */) = 0
+942592 19:57:56.187848 exit_group(0)    = ?
+933625 19:57:56.190305 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942592, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=14 /* 0.14 s */} ---
+933625 19:57:56.190904 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 942592
+933625 19:57:56.192099 wait4(-1, 0x7ffc39365c54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:57:56.204769 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 942819
+933625 19:57:56.210868 wait4(-1 <unfinished ...>
+942819 19:57:56.225461 execve("/usr/bin/sleep", ["sleep", "7.5"], 0x5bb3530ed240 /* 64 vars */) = 0
+942819 19:58:03.877280 exit_group(0)    = ?
+933625 19:58:03.879545 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 942819
+933625 19:58:03.883095 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=942819, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+933625 19:58:03.884827 wait4(-1, 0x7ffc39367314, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:03.910108 kill(933417, 0)  = 0
+933625 19:58:03.927941 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 945908
+945908 19:58:03.960928 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 945922
+945922 19:58:03.999392 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 945941
+945922 19:58:04.003356 wait4(-1 <unfinished ...>
+945941 19:58:04.014238 execve("/usr/bin/cat", ["cat", "/proc/933417/stat"], 0x5bb3530ed240 /* 64 vars */) = 0
+945941 19:58:04.098671 exit_group(0)    = ?
+945922 19:58:04.109643 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 945941
+945922 19:58:04.110927 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=945941, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+945922 19:58:04.111025 wait4(-1, 0x7ffc39364554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+945922 19:58:04.111234 exit_group(0)    = ?
+945908 19:58:04.131273 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=945922, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+945908 19:58:04.133012 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 945922
+945908 19:58:04.133298 wait4(-1, 0x7ffc39363954, WNOHANG, NULL) = -1 ECHILD (No child processes)
+945908 19:58:04.264719 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946027
+946027 19:58:04.312833 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946039
+946027 19:58:04.331860 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946044
+946027 19:58:04.338294 wait4(-1 <unfinished ...>
+946044 19:58:04.405020 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+946039 19:58:04.406149 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/933417/cmdline"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+946044 19:58:04.408138 <... execve resumed>) = 0
+946039 19:58:04.409313 <... execve resumed>) = 0
+946039 19:58:04.526774 exit_group(0)    = ?
+946027 19:58:04.529947 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946039
+946027 19:58:04.531015 wait4(-1 <unfinished ...>
+946044 19:58:04.532776 exit_group(0)    = ?
+946027 19:58:04.535329 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946044
+946027 19:58:04.541297 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946039, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+946027 19:58:04.543394 wait4(-1, 0x7ffc39364a94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946027 19:58:04.547351 exit_group(0)    = ?
+945908 19:58:04.562659 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946027, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+945908 19:58:04.563808 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946027
+945908 19:58:04.567522 wait4(-1, 0x7ffc39363d54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+945908 19:58:04.611338 exit_group(0)    = ?
+933625 19:58:04.617661 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=945908, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+933625 19:58:04.617843 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 945908
+933625 19:58:04.618126 wait4(-1, 0x7ffc39365654, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:04.627919 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946113
+946113 19:58:04.671467 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946124
+946124 19:58:04.695485 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946131
+946131 19:58:04.720709 exit_group(0)    = ?
+946124 19:58:04.722555 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946131, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+946124 19:58:04.722735 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946131
+946124 19:58:04.723606 wait4(-1, 0x7ffc39363b14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946124 19:58:04.728878 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946138
+946138 19:58:04.753223 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946145
+946138 19:58:04.765150 wait4(-1 <unfinished ...>
+946145 19:58:04.788365 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+946145 19:58:04.977414 exit_group(0)    = ?
+946138 19:58:04.996846 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946145
+946138 19:58:04.997121 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946145, si_uid=1000, si_status=0, si_utime=3 /* 0.03 s */, si_stime=8 /* 0.08 s */} ---
+946138 19:58:04.997165 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946138 19:58:05.000998 exit_group(0)    = ?
+946124 19:58:05.007454 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946138, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+946124 19:58:05.012259 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946138
+946124 19:58:05.014506 wait4(-1, 0x7ffc39362754, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946124 19:58:05.029250 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946204
+946204 19:58:05.063497 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946216
+946216 19:58:05.118941 execve("/usr/bin/uname", ["uname"], 0x5bb3530f4170 /* 64 vars */) = 0
+946216 19:58:05.263181 exit_group(0)    = ?
+946204 19:58:05.269606 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946216, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+946204 19:58:05.269897 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946216
+946204 19:58:05.270748 wait4(-1, 0x7ffc39362114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946204 19:58:05.315171 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946266
+946204 19:58:05.321915 wait4(-1 <unfinished ...>
+946266 19:58:05.330649 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+946266 19:58:05.626279 exit_group(0)    = ?
+946204 19:58:05.649123 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946266
+946204 19:58:05.662430 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946266, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+946204 19:58:05.668350 wait4(-1, 0x7ffc39363614, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946204 19:58:05.688383 exit_group(0)    = ?
+946124 19:58:05.692336 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946204, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+946124 19:58:05.692883 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946204
+946124 19:58:05.693259 wait4(-1, 0x7ffc39363054, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946124 19:58:05.730214 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946407
+946407 19:58:05.804566 exit_group(0)    = ?
+946124 19:58:05.806939 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946407, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+946124 19:58:05.807070 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946407
+946124 19:58:05.807852 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946124 19:58:05.810409 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946435
+946435 19:58:05.944656 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946468
+946468 19:58:05.999871 exit_group(0)    = ?
+946435 19:58:06.001825 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946468, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+946435 19:58:06.002564 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946468
+946435 19:58:06.004292 wait4(-1, 0x7ffc39362554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946435 19:58:06.014665 exit_group(0)    = ?
+946124 19:58:06.016931 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946435, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+946124 19:58:06.017293 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946435
+946124 19:58:06.022245 wait4(-1, 0x7ffc39363454, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946124 19:58:06.037802 exit_group(0)    = ?
+946113 19:58:06.044380 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946124, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+946113 19:58:06.045231 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946124
+946113 19:58:06.046643 wait4(-1, 0x7ffc39364c14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946113 19:58:06.059712 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946495
+946495 19:58:06.097089 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946505
+946505 19:58:06.129898 execve("/usr/bin/uname", ["uname"], 0x5bb352da42b0 /* 64 vars */) = 0
+946505 19:58:06.228967 exit_group(0)    = ?
+946495 19:58:06.231889 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946505, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+946495 19:58:06.232182 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946505
+946495 19:58:06.232503 wait4(-1, 0x7ffc39363f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946495 19:58:06.293034 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946548
+946495 19:58:06.298108 wait4(-1 <unfinished ...>
+946548 19:58:06.309256 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42b0 /* 64 vars */) = 0
+946548 19:58:06.404151 exit_group(0)    = ?
+946495 19:58:06.412425 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946548
+946495 19:58:06.419552 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946548, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+946495 19:58:06.423117 wait4(-1, 0x7ffc39365414, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946495 19:58:06.428227 exit_group(0)    = ?
+946113 19:58:06.435961 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946495, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+946113 19:58:06.436576 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946495
+946113 19:58:06.444837 wait4(-1, 0x7ffc39364e14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946113 19:58:06.477425 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946579
+946579 19:58:06.528037 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946583
+946583 19:58:06.653357 execve("/usr/bin/uname", ["uname"], 0x5bb352da42b0 /* 64 vars */) = 0
+946583 19:58:06.670670 exit_group(0)    = ?
+946579 19:58:06.673244 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946583, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+946579 19:58:06.674033 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946583
+946579 19:58:06.675342 wait4(-1, 0x7ffc39364014, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946579 19:58:06.710703 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946647
+946579 19:58:06.722227 wait4(-1 <unfinished ...>
+946647 19:58:06.736068 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42b0 /* 64 vars */) = 0
+946647 19:58:06.862380 exit_group(0)    = ?
+946579 19:58:06.866466 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946647
+946579 19:58:06.868822 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946647, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+946579 19:58:06.870243 wait4(-1, 0x7ffc39365514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946579 19:58:06.871560 exit_group(0)    = ?
+946113 19:58:06.874236 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946579, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+946113 19:58:06.874399 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946579
+946113 19:58:06.876553 wait4(-1, 0x7ffc39364f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946113 19:58:06.893535 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946706
+946706 19:58:06.906622 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946709
+946709 19:58:07.032863 execve("/usr/bin/uname", ["uname"], 0x5bb352da42b0 /* 64 vars */) = 0
+946709 19:58:07.195535 exit_group(0)    = ?
+946706 19:58:07.201560 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946709
+946706 19:58:07.201739 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946709, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+946706 19:58:07.201771 wait4(-1, 0x7ffc39364fd4, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946706 19:58:07.202745 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 946850
+946706 19:58:07.203557 wait4(-1 <unfinished ...>
+946850 19:58:07.228900 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42b0 /* 64 vars */) = 0
+946850 19:58:07.325000 exit_group(0)    = ?
+946706 19:58:07.326886 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 946850
+946706 19:58:07.391219 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946850, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+946706 19:58:07.399462 wait4(-1, 0x7ffc39365714, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946706 19:58:07.446809 exit_group(0)    = ?
+946113 19:58:07.463511 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946706, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+946113 19:58:07.466899 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946706
+946113 19:58:07.502634 wait4(-1, 0x7ffc39365114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+946113 19:58:07.545074 exit_group(0)    = ?
+933625 19:58:07.559272 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=946113, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+933625 19:58:07.562987 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 946113
+933625 19:58:07.565751 wait4(-1, 0x7ffc39366214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:07.713500 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 947108
+947108 19:58:07.758157 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 947170
+947170 19:58:07.814473 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 947239
+947239 19:58:07.826502 exit_group(0)    = ?
+947170 19:58:07.830523 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=947239, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+947170 19:58:07.830700 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 947239
+947170 19:58:07.830776 wait4(-1, 0x7ffc39363d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+947170 19:58:07.831874 exit_group(0)    = ?
+947108 19:58:07.838942 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=947170, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+947108 19:58:07.840554 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 947170
+947108 19:58:07.844139 wait4(-1, 0x7ffc39364b54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+947108 19:58:07.884084 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "\n    use strict;\n    use warning"..., "575712.129521"], 0x5bb3530ed240 /* 64 vars */) = 0
+947108 19:58:08.005571 exit_group(0)    = ?
+933625 19:58:08.008360 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=947108, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=5 /* 0.05 s */} ---
+933625 19:58:08.010919 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 947108
+933625 19:58:08.012814 wait4(-1, 0x7ffc39365c54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:08.026053 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 947428
+933625 19:58:08.029726 wait4(-1 <unfinished ...>
+947428 19:58:08.052015 execve("/usr/bin/sleep", ["sleep", "7.5"], 0x5bb3530ed240 /* 64 vars */) = 0
+947428 19:58:15.638507 exit_group(0)    = ?
+933625 19:58:15.643367 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 947428
+933625 19:58:15.648840 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=947428, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+933625 19:58:15.650174 wait4(-1, 0x7ffc39367314, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:15.655626 kill(933417, 0)  = 0
+933625 19:58:15.668473 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950295
+950295 19:58:15.747934 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950375
+950375 19:58:15.775416 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950393
+950375 19:58:15.783033 wait4(-1 <unfinished ...>
+950393 19:58:15.817756 execve("/usr/bin/cat", ["cat", "/proc/933417/stat"], 0x5bb3530ed240 /* 64 vars */) = 0
+950393 19:58:15.837916 exit_group(0)    = ?
+950375 19:58:15.838951 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 950393
+950375 19:58:15.842314 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950393, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+950375 19:58:15.842515 wait4(-1, 0x7ffc39364554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950375 19:58:15.845293 exit_group(0)    = ?
+950295 19:58:15.849726 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950375, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+950295 19:58:15.849904 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950375
+950295 19:58:15.851267 wait4(-1, 0x7ffc39363954, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950295 19:58:16.014210 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950474
+950474 19:58:16.026827 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950478
+950474 19:58:16.032056 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950481
+950474 19:58:16.053247 wait4(-1 <unfinished ...>
+950481 19:58:16.111286 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+950478 19:58:16.114736 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/933417/cmdline"], 0x5bb3530ed240 /* 64 vars */ <unfinished ...>
+950481 19:58:16.115253 <... execve resumed>) = 0
+950478 19:58:16.123718 <... execve resumed>) = 0
+950478 19:58:16.281636 exit_group(0)    = ?
+950474 19:58:16.286068 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 950478
+950474 19:58:16.286727 wait4(-1 <unfinished ...>
+950481 19:58:16.287336 exit_group(0)    = ?
+950474 19:58:16.290720 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 950481
+950474 19:58:16.298061 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950478, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+950474 19:58:16.300552 wait4(-1, 0x7ffc39364a94, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950474 19:58:16.301247 exit_group(0)    = ?
+950295 19:58:16.302414 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950474, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+950295 19:58:16.309510 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950474
+950295 19:58:16.314119 wait4(-1, 0x7ffc39363d54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950295 19:58:16.333261 exit_group(0)    = ?
+933625 19:58:16.335953 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950295, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+933625 19:58:16.336818 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950295
+933625 19:58:16.337564 wait4(-1, 0x7ffc39365654, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:16.384315 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950553
+950553 19:58:16.419953 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950558
+950558 19:58:16.478181 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950575
+950575 19:58:16.515675 exit_group(0)    = ?
+950558 19:58:16.520149 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950575, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+950558 19:58:16.531751 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950575
+950558 19:58:16.536110 wait4(-1, 0x7ffc39363b14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950558 19:58:16.562270 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950596
+950596 19:58:16.614881 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950605
+950596 19:58:16.620060 wait4(-1 <unfinished ...>
+950605 19:58:16.653427 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+950605 19:58:16.738549 exit_group(0)    = ?
+950596 19:58:16.740409 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 950605
+950596 19:58:16.742821 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950605, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+950596 19:58:16.742972 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950596 19:58:16.752573 exit_group(0)    = ?
+950558 19:58:16.756830 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950596, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+950558 19:58:16.763808 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950596
+950558 19:58:16.768979 wait4(-1, 0x7ffc39362754, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950558 19:58:16.812982 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950668
+950668 19:58:16.875683 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950686
+950686 19:58:16.915192 execve("/usr/bin/uname", ["uname"], 0x5bb3530f4200 /* 64 vars */) = 0
+950686 19:58:17.090170 exit_group(0)    = ?
+950668 19:58:17.102789 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950686, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+950668 19:58:17.103221 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950686
+950668 19:58:17.108780 wait4(-1, 0x7ffc39362114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950668 19:58:17.153964 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950816
+950668 19:58:17.163135 wait4(-1 <unfinished ...>
+950816 19:58:17.178654 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb3530ed240 /* 64 vars */) = 0
+950816 19:58:17.388832 exit_group(0)    = ?
+950668 19:58:17.394425 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 950816
+950668 19:58:17.401037 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950816, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+950668 19:58:17.401180 wait4(-1, 0x7ffc39363614, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950668 19:58:17.403718 exit_group(0)    = ?
+950558 19:58:17.405161 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950668, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+950558 19:58:17.406713 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950668
+950558 19:58:17.409233 wait4(-1, 0x7ffc39363054, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950558 19:58:17.429818 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 950999
+950999 19:58:17.472784 exit_group(0)    = ?
+950558 19:58:17.475346 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950999, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+950558 19:58:17.475716 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950999
+950558 19:58:17.475937 wait4(-1, 0x7ffc39363354, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950558 19:58:17.484603 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951027
+951027 19:58:17.590052 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951078
+951078 19:58:17.618517 exit_group(0)    = ?
+951027 19:58:17.619995 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951078, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+951027 19:58:17.620140 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951078
+951027 19:58:17.620396 wait4(-1, 0x7ffc39362554, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951027 19:58:17.627197 exit_group(0)    = ?
+950558 19:58:17.629924 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951027, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+950558 19:58:17.630247 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951027
+950558 19:58:17.630789 wait4(-1, 0x7ffc39363454, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950558 19:58:17.633856 exit_group(0)    = ?
+950553 19:58:17.638317 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950558, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+950553 19:58:17.638510 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950558
+950553 19:58:17.638979 wait4(-1, 0x7ffc39365d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950553 19:58:17.648109 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951099
+951099 19:58:17.693662 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951120
+951120 19:58:17.744377 execve("/usr/bin/uname", ["uname"], 0x5bb352da42d0 /* 64 vars */) = 0
+951120 19:58:17.873906 exit_group(0)    = ?
+951099 19:58:17.876081 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951120, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+951099 19:58:17.876345 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951120
+951099 19:58:17.877072 wait4(-1, 0x7ffc39363f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951099 19:58:17.884120 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951186
+951099 19:58:17.886485 wait4(-1 <unfinished ...>
+951186 19:58:17.889972 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42d0 /* 64 vars */) = 0
+951186 19:58:18.087252 exit_group(0)    = ?
+951099 19:58:18.090246 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 951186
+951099 19:58:18.098412 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951186, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+951099 19:58:18.098661 wait4(-1, 0x7ffc39365414, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951099 19:58:18.099044 exit_group(0)    = ?
+950553 19:58:18.100374 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951099, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+950553 19:58:18.101683 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951099
+950553 19:58:18.103534 wait4(-1, 0x7ffc39364e14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950553 19:58:18.114617 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951288
+951288 19:58:18.126481 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951294
+951294 19:58:18.164725 execve("/usr/bin/uname", ["uname"], 0x5bb352da42d0 /* 64 vars */) = 0
+951294 19:58:18.263690 exit_group(0)    = ?
+951288 19:58:18.265298 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951294, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+951288 19:58:18.265466 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951294
+951288 19:58:18.265763 wait4(-1, 0x7ffc39364014, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951288 19:58:18.290230 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951378
+951288 19:58:18.294529 wait4(-1 <unfinished ...>
+951378 19:58:18.308052 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42d0 /* 64 vars */) = 0
+951378 19:58:18.433378 exit_group(0)    = ?
+951288 19:58:18.435805 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 951378
+951288 19:58:18.438347 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951378, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+951288 19:58:18.438492 wait4(-1, 0x7ffc39365514, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951288 19:58:18.439436 exit_group(0)    = ?
+950553 19:58:18.440551 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951288, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+950553 19:58:18.441002 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951288
+950553 19:58:18.441179 wait4(-1, 0x7ffc39364f14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950553 19:58:18.450876 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951488
+951488 19:58:18.475651 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951501
+951501 19:58:18.512771 execve("/usr/bin/uname", ["uname"], 0x5bb352da42d0 /* 64 vars */) = 0
+951501 19:58:18.664974 exit_group(0)    = ?
+951488 19:58:18.671444 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951501, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+951488 19:58:18.673920 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951501
+951488 19:58:18.675514 wait4(-1, 0x7ffc39364214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951488 19:58:18.710162 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951662
+951488 19:58:18.718829 wait4(-1 <unfinished ...>
+951662 19:58:18.737172 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.LgTUW"...], 0x5bb352da42d0 /* 64 vars */) = 0
+951662 19:58:18.843950 exit_group(0)    = ?
+951488 19:58:18.846320 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 951662
+951488 19:58:18.848185 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951662, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+951488 19:58:18.848386 wait4(-1, 0x7ffc39365714, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951488 19:58:18.848843 exit_group(0)    = ?
+950553 19:58:18.849886 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951488, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+950553 19:58:18.850308 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951488
+950553 19:58:18.850634 wait4(-1, 0x7ffc39365114, WNOHANG, NULL) = -1 ECHILD (No child processes)
+950553 19:58:18.875127 exit_group(0)    = ?
+933625 19:58:18.879605 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=950553, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+933625 19:58:18.879850 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 950553
+933625 19:58:18.880783 wait4(-1, 0x7ffc39366214, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:18.932426 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951817
+951817 19:58:18.944940 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951826
+951826 19:58:18.972448 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 951843
+951843 19:58:19.015749 exit_group(0)    = ?
+951826 19:58:19.017129 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951843, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+951826 19:58:19.017544 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951843
+951826 19:58:19.018747 wait4(-1, 0x7ffc39363d14, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951826 19:58:19.027531 exit_group(0)    = ?
+951817 19:58:19.029901 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951826, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+951817 19:58:19.030081 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951826
+951817 19:58:19.030254 wait4(-1, 0x7ffc39364b54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+951817 19:58:19.206258 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "\n    use strict;\n    use warning"..., "575712.129521"], 0x5bb3530ed240 /* 64 vars */) = 0
+951817 19:58:19.417872 exit_group(0)    = ?
+933625 19:58:19.420668 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=951817, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=15 /* 0.15 s */} ---
+933625 19:58:19.421162 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 951817
+933625 19:58:19.422822 wait4(-1, 0x7ffc39365c54, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:19.450284 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x74ca4bc33a10) = 952064
+933625 19:58:19.456510 wait4(-1 <unfinished ...>
+952064 19:58:19.488094 execve("/usr/bin/sleep", ["sleep", "7.5"], 0x5bb3530ed240 /* 64 vars */) = 0
+952064 19:58:27.121838 exit_group(0)    = ?
+933625 19:58:27.126361 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 952064
+933625 19:58:27.131259 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=952064, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+933625 19:58:27.132364 wait4(-1, 0x7ffc39367314, WNOHANG, NULL) = -1 ECHILD (No child processes)
+933625 19:58:27.141266 kill(933417, 0)  = -1 ESRCH (No such process)
+933625 19:58:27.154811 kill(-933417, 0) = -1 ESRCH (No such process)
+933625 19:58:27.161912 exit_group(0)    = ?
+933549 19:58:27.169920 <... wait4 resumed>, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], 0, NULL) = 933625
+933549 19:58:27.170132 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=933625, si_uid=1000, si_status=0, si_utime=5 /* 0.05 s */, si_stime=27 /* 0.27 s */} ---
+933549 19:58:27.196828 exit_group(0)    = ?

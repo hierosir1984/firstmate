@@ -1,0 +1,7 @@
+Live product: bin/fm-procevent.sh _owner-watchdog.
+Isolated fixture: disposable FM_HOME, private physical state root, fresh lease via public list command, real /bin/sleep runner.
+Liveness: guard remained alive with the runner for 23 seconds and returned 0 on its next check after the runner exited.
+Default cadence: observed 3 successful sleep 7.5-second half-ticks.
+Successful helper execs in this sample: uname=15, id=0, stat=17, sleep=3.
+Current patched library SHA-256: 923805ac1744e41441914da2cf179923a1b7fc1a17f3e135bad6cf9374d5db77.
+Paired four-tick baseline/patched results are retained in procevent-watchdog-summary.txt: uname 24 to 19; id 9 to 0; execve 117 to 103.

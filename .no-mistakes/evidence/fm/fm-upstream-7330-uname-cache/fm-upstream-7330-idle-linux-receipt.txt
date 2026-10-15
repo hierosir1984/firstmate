@@ -1,0 +1,9 @@
+Read-only receipt audit of the author-supplied idle-Linux proof for this change.
+
+The result table recorded exit 0 for both original and patched runs of tests/fm-procevent.test.sh and tests/fm-extension-binding.test.sh. The four corresponding logs end with passing suite markers and FM_TEST_END exit=0, gate_skip=false. Recorded durations were 404275ms and 11882ms for the original, and 398041ms and 11715ms for the patched source.
+
+The recorded patched library SHA-256 is 923805ac1744e41441914da2cf179923a1b7fc1a17f3e135bad6cf9374d5db77, matching the current worktree file. The base library SHA-256 is bd14ff1b8e38000e61b98e4cf0cc09d41cf4fe78bdf6eb459268d60470adf1.
+
+These are recorded GCP executions inspected read-only in this gate, not live executions performed in this turn. Host identity and private infrastructure details are omitted.
+
+The supplied local procevent-tests.log also records tests/fm-remote-reply.test.sh exit=0 (1355362ms) and tests/fm-procevent-when.test.sh exit=0 (172203ms). That combined local run later failed in its process-event and extension sections, so these two rows are retained only as their individual results, not as an all-green aggregate.

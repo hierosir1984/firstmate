@@ -1,0 +1,9 @@
+source_id=remote-reply-ios
+registered: remote-reply-ios (remote-reply)
+armed: remote-reply-ios offset=0
+poll_state=running
+# Detailed remote answer
+
+The build is green.
+preempted_source_exit=75
+caught_up_watermark=absent

@@ -1,0 +1,1507 @@
+3262071 18:51:01.554575 execve("/home/ubuntu/.no-mistakes/worktrees/def584fb9f7e/01M4ZFVFSPPFS7TRB41XMZMYNV/bin/fm-procevent.sh", ["/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fff7581abd0 /* 62 vars */) = 0
+3262071 18:51:01.714221 execve("/home/ubuntu/.bun/install/global/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.714951 execve("/home/ubuntu/.grok/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.716016 execve("/home/ubuntu/.npm-global/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.717814 execve("/home/ubuntu/.clawdbot/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.720986 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.722296 execve("/home/ubuntu/.atuin/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.724963 execve("/home/ubuntu/go/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729552 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729704 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729760 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729811 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729862 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729913 execve("/usr/local/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.729965 execve("/usr/local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.730017 execve("/usr/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = -1 ENOENT (No such file or directory)
+3262071 18:51:01.730071 execve("/usr/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "start", "watchdog-cache"], 0x7fffa763aca8 /* 62 vars */) = 0
+3262134 18:51:02.125628 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e2783542860 /* 62 vars */) = 0
+3262134 18:51:02.211544 +++ exited with 0 +++
+3262120 18:51:02.211643 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262134, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3262120 18:51:02.225927 +++ exited with 0 +++
+3262071 18:51:02.299388 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262120, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262288 18:51:02.380570 +++ exited with 0 +++
+3262071 18:51:02.380690 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262288, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262295 18:51:02.394527 +++ exited with 0 +++
+3262071 18:51:02.394664 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262295, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262303 18:51:02.413954 +++ exited with 0 +++
+3262071 18:51:02.414034 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262303, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262337 18:51:02.453084 execve("/usr/bin/uname", ["uname"], 0x5e27835471b0 /* 62 vars */) = 0
+3262337 18:51:02.501302 +++ exited with 0 +++
+3262330 18:51:02.502092 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262337, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262330 18:51:02.503637 +++ exited with 0 +++
+3262071 18:51:02.503679 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262330, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262367 18:51:02.606974 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27835471b0 /* 62 vars */) = 0
+3262367 18:51:02.620555 +++ exited with 0 +++
+3262071 18:51:02.620834 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262367, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262393 18:51:02.707536 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e27835ffa50 /* 62 vars */) = 0
+3262393 18:51:02.719048 +++ exited with 0 +++
+3262392 18:51:02.719128 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262393, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262392 18:51:02.720686 +++ exited with 0 +++
+3262071 18:51:02.721690 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262392, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262396 18:51:02.746070 +++ exited with 0 +++
+3262071 18:51:02.746193 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262396, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262399 18:51:02.788860 +++ exited with 0 +++
+3262071 18:51:02.788941 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262399, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262413 18:51:02.866342 execve("/usr/bin/uname", ["uname"], 0x5e27835ff970 /* 62 vars */) = 0
+3262413 18:51:02.940561 +++ exited with 0 +++
+3262407 18:51:02.941323 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262413, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3262407 18:51:02.942412 +++ exited with 0 +++
+3262071 18:51:02.942505 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262407, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262418 18:51:02.946888 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27835ff970 /* 62 vars */) = 0
+3262418 18:51:03.012188 +++ exited with 0 +++
+3262071 18:51:03.012445 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262418, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262441 18:51:03.160976 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e27836031e0 /* 62 vars */) = 0
+3262441 18:51:03.295539 +++ exited with 0 +++
+3262429 18:51:03.295962 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262441, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3262429 18:51:03.313722 +++ exited with 0 +++
+3262071 18:51:03.314524 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262429, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262464 18:51:03.352066 +++ exited with 0 +++
+3262071 18:51:03.356778 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262464, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262479 18:51:03.398637 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e27835f9ba0 /* 62 vars */) = 0
+3262479 18:51:03.458170 +++ exited with 0 +++
+3262475 18:51:03.458331 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262479, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262475 18:51:03.472448 +++ exited with 0 +++
+3262071 18:51:03.472794 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262475, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262505 18:51:03.580125 +++ exited with 0 +++
+3262071 18:51:03.580801 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262505, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262511 18:51:03.635881 +++ exited with 0 +++
+3262071 18:51:03.635965 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262511, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262513 18:51:03.715986 +++ exited with 0 +++
+3262512 18:51:03.716217 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262513, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262515 18:51:03.767331 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27835f9ba0 /* 62 vars */) = 0
+3262515 18:51:03.956129 +++ exited with 0 +++
+3262514 18:51:03.980963 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262515, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3262514 18:51:04.003423 +++ exited with 0 +++
+3262512 18:51:04.023698 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262514, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262573 18:51:04.110838 execve("/usr/bin/uname", ["uname"], 0x5e27837c7a00 /* 62 vars */) = 0
+3262573 18:51:04.124078 +++ exited with 0 +++
+3262547 18:51:04.126133 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262573, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262600 18:51:04.147541 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27835f9ba0 /* 62 vars */) = 0
+3262600 18:51:04.269271 +++ exited with 0 +++
+3262547 18:51:04.270710 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262600, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3262547 18:51:04.275628 +++ exited with 0 +++
+3262512 18:51:04.277319 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262547, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262652 18:51:04.291065 +++ exited with 0 +++
+3262512 18:51:04.291192 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262652, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262657 18:51:04.406122 +++ exited with 0 +++
+3262653 18:51:04.406248 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262657, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262653 18:51:04.424783 +++ exited with 0 +++
+3262512 18:51:04.424939 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262653, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262512 18:51:04.426468 +++ exited with 0 +++
+3262071 18:51:04.430705 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262512, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262671 18:51:04.590350 +++ exited with 0 +++
+3262071 18:51:04.593649 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262671, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262698 18:51:04.741156 +++ exited with 0 +++
+3262071 18:51:04.741264 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262698, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262700 18:51:04.817148 +++ exited with 0 +++
+3262699 18:51:04.817262 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262700, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262699 18:51:04.819656 +++ exited with 0 +++
+3262071 18:51:04.820514 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262699, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262709 18:51:04.894224 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783881f40 /* 63 vars */) = 0
+3262709 18:51:05.325213 +++ exited with 0 +++
+3262071 18:51:05.325341 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262709, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262719 18:51:05.371007 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3262719 18:51:05.407368 +++ exited with 0 +++
+3262071 18:51:05.407476 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262719, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262728 18:51:05.447089 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3262728 18:51:05.736781 +++ exited with 0 +++
+3262071 18:51:05.737039 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262728, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3262760 18:51:05.790310 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3262760 18:51:05.810612 +++ exited with 0 +++
+3262757 18:51:05.864423 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262760, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262757 18:51:05.875260 +++ exited with 0 +++
+3262748 18:51:05.875341 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262757, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262787 18:51:05.938227 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3262786 18:51:05.954095 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3262786 18:51:05.988609 +++ exited with 0 +++
+3262787 18:51:05.989563 +++ exited with 0 +++
+3262783 18:51:05.992009 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262786, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262783 18:51:05.993185 +++ exited with 0 +++
+3262748 18:51:05.993562 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262783, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262748 18:51:06.000343 +++ exited with 0 +++
+3262071 18:51:06.000533 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262748, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262828 18:51:06.009284 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3262833 18:51:06.022910 execve("/usr/bin/perl", ["perl", "-e", "my $mode = shift @ARGV;\n    defi"..., "wait", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x5e2783881f40 /* 63 vars */) = 0
+3262835 18:51:06.047127 execve("/home/ubuntu/.no-mistakes/worktrees/def584fb9f7e/01M4ZFVFSPPFS7TRB41XMZMYNV/bin/fm-procevent.sh", ["/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x5f7093e56860 /* 64 vars */) = 0
+3262835 18:51:06.056513 execve("/home/ubuntu/.bun/install/global/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056683 execve("/home/ubuntu/.grok/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056737 execve("/home/ubuntu/.npm-global/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056783 execve("/home/ubuntu/.clawdbot/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056829 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056875 execve("/home/ubuntu/.atuin/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056937 execve("/home/ubuntu/go/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.056982 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057026 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057068 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057109 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057152 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057195 execve("/usr/local/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057240 execve("/usr/local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057283 execve("/usr/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = -1 ENOENT (No such file or directory)
+3262835 18:51:06.057327 execve("/usr/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_start", "watchdog-cache"], 0x7ffc1c19ffb8 /* 64 vars */) = 0
+3262842 18:51:06.100152 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e6514cdeac0 /* 64 vars */) = 0
+3262842 18:51:06.123037 +++ exited with 0 +++
+3262838 18:51:06.123099 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262842, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262838 18:51:06.124316 +++ exited with 0 +++
+3262835 18:51:06.124403 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262838, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262864 18:51:06.148408 +++ exited with 0 +++
+3262835 18:51:06.148530 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262864, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262869 18:51:06.207066 +++ exited with 0 +++
+3262835 18:51:06.207184 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262869, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262876 18:51:06.223849 +++ exited with 0 +++
+3262835 18:51:06.223912 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262876, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262895 18:51:06.316407 execve("/usr/bin/uname", ["uname"], 0x5e6514ce3430 /* 64 vars */) = 0
+3262895 18:51:06.388034 +++ exited with 0 +++
+3262882 18:51:06.388480 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262895, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262882 18:51:06.396837 +++ exited with 0 +++
+3262835 18:51:06.397060 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262882, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262912 18:51:06.420933 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514ce3430 /* 64 vars */) = 0
+3262912 18:51:06.457903 +++ exited with 0 +++
+3262835 18:51:06.460573 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262912, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262932 18:51:06.594506 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e6514d9bc70 /* 64 vars */) = 0
+3262932 18:51:06.642112 +++ exited with 0 +++
+3262925 18:51:06.642252 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262932, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3262925 18:51:06.649815 +++ exited with 0 +++
+3262835 18:51:06.649931 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262925, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262940 18:51:06.701694 +++ exited with 0 +++
+3262835 18:51:06.703417 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262940, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262941 18:51:06.718190 +++ exited with 0 +++
+3262835 18:51:06.718443 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262941, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262954 18:51:06.757889 execve("/usr/bin/uname", ["uname"], 0x5e6514d9bb90 /* 64 vars */) = 0
+3262954 18:51:06.787574 +++ exited with 0 +++
+3262947 18:51:06.787910 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262954, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262947 18:51:06.789263 +++ exited with 0 +++
+3262835 18:51:06.789332 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262947, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262978 18:51:06.803958 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514d9bb90 /* 64 vars */) = 0
+3262978 18:51:06.906506 +++ exited with 0 +++
+3262835 18:51:06.906970 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262978, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3262997 18:51:07.240671 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e6514d9f370 /* 64 vars */) = 0
+3262828 18:51:07.256549 +++ exited with 0 +++
+3262826 18:51:07.260232 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262828, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262997 18:51:07.262533 +++ exited with 0 +++
+3262989 18:51:07.262645 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262997, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262989 18:51:07.264045 +++ exited with 0 +++
+3262835 18:51:07.264105 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262989, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3263026 18:51:07.336904 +++ exited with 0 +++
+3262835 18:51:07.336983 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263026, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3263081 18:51:07.571939 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3263081 18:51:07.619693 +++ exited with 0 +++
+3263036 18:51:07.622194 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263081, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3263036 18:51:07.623506 +++ exited with 0 +++
+3263031 18:51:07.623573 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263036, si_uid=1000, si_status=0, si_utime=0, si_stime=17 /* 0.17 s */} ---
+3263117 18:51:07.660689 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x5e6514d95dc0 /* 64 vars */) = 0
+3263117 18:51:07.737382 +++ exited with 0 +++
+3263116 18:51:07.737517 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263117, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3263116 18:51:07.738868 +++ exited with 0 +++
+3262835 18:51:07.739695 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263116, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263188 18:51:07.819557 +++ exited with 0 +++
+3262835 18:51:07.822815 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263188, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3263239 18:51:07.906105 +++ exited with 0 +++
+3262835 18:51:07.908417 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263239, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263280 18:51:08.107768 +++ exited with 0 +++
+3263263 18:51:08.112342 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263280, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3263323 18:51:08.243220 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514d95dc0 /* 64 vars */) = 0
+3263322 18:51:08.308304 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3263325 18:51:08.335788 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3263323 18:51:08.499735 +++ exited with 0 +++
+3263313 18:51:08.524517 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263323, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3263313 18:51:08.527545 +++ exited with 0 +++
+3263263 18:51:08.527807 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263313, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3263322 18:51:08.559896 +++ exited with 0 +++
+3263325 18:51:08.611971 +++ exited with 0 +++
+3263315 18:51:08.627767 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263322, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3263315 18:51:08.645762 +++ exited with 0 +++
+3263031 18:51:08.651768 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263315, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3263031 18:51:08.765599 +++ exited with 0 +++
+3262826 18:51:08.770255 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263031, si_uid=1000, si_status=0, si_utime=0, si_stime=14 /* 0.14 s */} ---
+3263418 18:51:08.892995 +++ exited with 0 +++
+3262826 18:51:08.893089 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263418, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3263420 18:51:09.055422 +++ exited with 0 +++
+3263419 18:51:09.059925 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263420, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263419 18:51:09.249985 +++ exited with 0 +++
+3262826 18:51:09.255134 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263419, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3263457 18:51:09.291974 execve("/usr/bin/uname", ["uname"], 0x5e6514f63a70 /* 64 vars */) = 0
+3263490 18:51:09.423409 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783885af0 /* 63 vars */) = 0
+3263490 18:51:09.459144 +++ exited with 0 +++
+3262826 18:51:09.459289 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263490, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=2 /* 0.02 s */} ---
+3263545 18:51:09.483765 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783885a80 /* 63 vars */) = 0
+3263457 18:51:09.494993 +++ exited with 0 +++
+3263406 18:51:09.495171 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263457, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3263581 18:51:09.571112 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514d95dc0 /* 64 vars */) = 0
+3263545 18:51:09.630276 +++ exited with 0 +++
+3262826 18:51:09.630470 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263545, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3263631 18:51:09.636984 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3263631 18:51:09.646074 +++ exited with 0 +++
+3262826 18:51:09.646249 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263631, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263636 18:51:09.659290 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3263581 18:51:09.664946 +++ exited with 0 +++
+3263406 18:51:09.665894 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263581, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3263406 18:51:09.670106 +++ exited with 0 +++
+3263263 18:51:09.670181 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263406, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3263662 18:51:09.742675 +++ exited with 0 +++
+3263263 18:51:09.743315 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263662, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263741 18:51:09.891187 +++ exited with 0 +++
+3263705 18:51:09.892869 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263741, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263705 18:51:09.917917 +++ exited with 0 +++
+3263263 18:51:09.922259 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263705, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3263263 18:51:09.939634 +++ exited with 0 +++
+3262835 18:51:09.940266 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263263, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3263769 18:51:09.965681 +++ exited with 0 +++
+3262835 18:51:09.967112 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263769, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3263839 18:51:10.200984 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e6515043700 /* 64 vars */) = 0
+3263835 18:51:10.208326 execve("/usr/bin/ps", ["ps", "-o", "pgid=", "-p", "3262835"], 0x5e6515043700 /* 64 vars */) = 0
+3263636 18:51:10.799975 +++ exited with 0 +++
+3262826 18:51:10.801329 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263636, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3264063 18:51:11.046457 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3264063 18:51:11.716506 +++ exited with 0 +++
+3264050 18:51:11.726339 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264063, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3264050 18:51:11.729354 +++ exited with 0 +++
+3264043 18:51:11.730048 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264050, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3264158 18:51:11.967835 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3264159 18:51:11.969037 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3264158 18:51:11.969883 <... execve resumed>) = 0
+3264159 18:51:11.970053 <... execve resumed>) = 0
+3264158 18:51:12.157818 +++ exited with 0 +++
+3264159 18:51:12.164077 +++ exited with 0 +++
+3264157 18:51:12.170396 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264158, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3264157 18:51:12.198097 +++ exited with 0 +++
+3264043 18:51:12.198499 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264157, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3264043 18:51:12.226092 +++ exited with 0 +++
+3262826 18:51:12.226659 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264043, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3264182 18:51:12.321798 +++ exited with 0 +++
+3262826 18:51:12.326831 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264182, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3264198 18:51:12.521929 +++ exited with 0 +++
+3264192 18:51:12.522513 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264198, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3264192 18:51:12.545569 +++ exited with 0 +++
+3262826 18:51:12.546856 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264192, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3264209 18:51:12.592221 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783886f30 /* 63 vars */) = 0
+3264209 18:51:13.025090 +++ exited with 0 +++
+3262826 18:51:13.025330 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264209, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=19 /* 0.19 s */} ---
+3264237 18:51:13.084123 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783886f60 /* 63 vars */) = 0
+3264237 18:51:13.208069 +++ exited with 0 +++
+3262826 18:51:13.209752 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264237, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3264284 18:51:13.294213 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3264284 18:51:13.808617 +++ exited with 0 +++
+3262826 18:51:13.812722 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264284, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3264332 18:51:13.830870 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3264332 18:51:15.011787 +++ exited with 0 +++
+3262826 18:51:15.015127 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264332, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3264573 18:51:15.212292 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3264573 18:51:15.333221 +++ exited with 0 +++
+3264564 18:51:15.334966 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264573, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3264564 18:51:15.348447 +++ exited with 0 +++
+3264556 18:51:15.350125 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264564, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3264712 18:51:15.905632 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3264723 18:51:15.908060 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3264712 18:51:15.911920 <... execve resumed>) = 0
+3264712 18:51:15.982271 +++ exited with 0 +++
+3264723 18:51:15.983809 +++ exited with 0 +++
+3264694 18:51:15.985067 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264712, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3264694 18:51:15.989087 +++ exited with 0 +++
+3264556 18:51:15.989212 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264694, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3264556 18:51:15.994080 +++ exited with 0 +++
+3262826 18:51:15.994218 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264556, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3264758 18:51:16.032235 +++ exited with 0 +++
+3262826 18:51:16.032475 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264758, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3264780 18:51:16.111547 +++ exited with 0 +++
+3264765 18:51:16.111707 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264780, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3264765 18:51:16.120010 +++ exited with 0 +++
+3262826 18:51:16.121046 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264765, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3264786 18:51:16.152437 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887600 /* 63 vars */) = 0
+3264786 18:51:16.606342 +++ exited with 0 +++
+3262826 18:51:16.607172 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264786, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=13 /* 0.13 s */} ---
+3264879 18:51:16.705963 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27838875a0 /* 63 vars */) = 0
+3264879 18:51:16.864928 +++ exited with 0 +++
+3262826 18:51:16.865821 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264879, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3264955 18:51:16.887262 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3264955 18:51:16.920577 +++ exited with 0 +++
+3262826 18:51:16.924652 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264955, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3264985 18:51:16.949128 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3264985 18:51:18.091160 +++ exited with 0 +++
+3262826 18:51:18.092239 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3264985, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265195 18:51:18.222770 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3265195 18:51:18.392072 +++ exited with 0 +++
+3265176 18:51:18.392988 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265195, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3265176 18:51:18.395507 +++ exited with 0 +++
+3265159 18:51:18.396212 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265176, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265250 18:51:18.684719 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3265251 18:51:18.691146 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3265250 18:51:18.852795 +++ exited with 0 +++
+3265251 18:51:18.855783 +++ exited with 0 +++
+3265246 18:51:18.857350 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265250, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3265246 18:51:18.859088 +++ exited with 0 +++
+3265159 18:51:18.859350 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265246, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265159 18:51:18.884536 +++ exited with 0 +++
+3262826 18:51:18.884792 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265159, si_uid=1000, si_status=0, si_utime=0, si_stime=10 /* 0.10 s */} ---
+3265285 18:51:18.945241 +++ exited with 0 +++
+3262826 18:51:18.946104 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265285, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265289 18:51:19.102058 +++ exited with 0 +++
+3265286 18:51:19.102854 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265289, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3265286 18:51:19.126283 +++ exited with 0 +++
+3262826 18:51:19.126444 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265286, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265295 18:51:19.214015 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838879b0 /* 63 vars */) = 0
+3265295 18:51:20.437498 +++ exited with 0 +++
+3262826 18:51:20.437983 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265295, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=18 /* 0.18 s */} ---
+3265595 18:51:20.621800 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27838879e0 /* 63 vars */) = 0
+3265595 18:51:20.808724 +++ exited with 0 +++
+3262826 18:51:20.808891 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265595, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3265631 18:51:20.829937 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3263835 18:51:20.853757 +++ exited with 0 +++
+3263839 18:51:20.854531 +++ exited with 0 +++
+3263817 18:51:20.855723 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263835, si_uid=1000, si_status=0, si_utime=8 /* 0.08 s */, si_stime=247 /* 2.47 s */} ---
+3263817 18:51:20.857981 +++ exited with 0 +++
+3262835 18:51:20.858100 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3263817, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265650 18:51:20.893920 +++ exited with 0 +++
+3262835 18:51:20.894705 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265650, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265653 18:51:20.940891 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265631 18:51:20.954790 +++ exited with 0 +++
+3262826 18:51:20.957119 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265631, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265654 18:51:20.972807 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3265653 18:51:21.043431 +++ exited with 0 +++
+3262835 18:51:21.044292 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265653, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265657 18:51:21.109320 +++ exited with 0 +++
+3265656 18:51:21.109440 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265657, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265656 18:51:21.117487 +++ exited with 0 +++
+3262835 18:51:21.117671 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265656, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265660 18:51:21.201504 +++ exited with 0 +++
+3265659 18:51:21.202545 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265660, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265659 18:51:21.212086 +++ exited with 0 +++
+3265658 18:51:21.212382 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265659, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3265661 18:51:21.298421 execve("/usr/bin/mktemp", ["mktemp", "-d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265661 18:51:21.502767 +++ exited with 0 +++
+3265658 18:51:21.507439 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265661, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3265658 18:51:21.513733 +++ exited with 0 +++
+3262835 18:51:21.514450 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265658, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3265725 18:51:21.654687 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265725 18:51:22.015151 +++ exited with 0 +++
+3265693 18:51:22.021800 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265725, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3265693 18:51:22.036939 +++ exited with 0 +++
+3262835 18:51:22.037387 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265693, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265654 18:51:22.072138 +++ exited with 0 +++
+3262826 18:51:22.092183 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265654, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3265762 18:51:22.126828 execve("/usr/bin/ln", ["ln", "-s", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265768 18:51:22.192697 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3265762 18:51:22.218494 +++ exited with 0 +++
+3262835 18:51:22.223677 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265762, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3265770 18:51:22.288344 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265768 18:51:22.296097 +++ exited with 0 +++
+3265767 18:51:22.297720 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265768, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3265767 18:51:22.300838 +++ exited with 0 +++
+3265756 18:51:22.301034 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265767, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265770 18:51:22.349386 +++ exited with 0 +++
+3265769 18:51:22.352232 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265770, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3265769 18:51:22.369806 +++ exited with 0 +++
+3262835 18:51:22.372229 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265769, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265772 18:51:22.426458 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265772 18:51:22.538853 +++ exited with 0 +++
+3265771 18:51:22.540274 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265772, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265771 18:51:22.545855 +++ exited with 0 +++
+3262835 18:51:22.546019 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265771, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3265774 18:51:22.553535 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3265783 18:51:22.556336 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3265786 18:51:22.596290 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265774 18:51:22.702408 +++ exited with 0 +++
+3265783 18:51:22.709405 +++ exited with 0 +++
+3265773 18:51:22.712278 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265774, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3265773 18:51:22.715176 +++ exited with 0 +++
+3265756 18:51:22.715309 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265773, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265756 18:51:22.726845 +++ exited with 0 +++
+3262826 18:51:22.727070 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265756, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3265786 18:51:22.728446 +++ exited with 0 +++
+3265785 18:51:22.730878 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265786, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3265785 18:51:22.733079 +++ exited with 0 +++
+3262835 18:51:22.733356 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265785, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265811 18:51:22.759330 +++ exited with 0 +++
+3262826 18:51:22.760324 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265811, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265812 18:51:22.762503 +++ exited with 0 +++
+3262835 18:51:22.762765 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265812, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265814 18:51:22.790420 +++ exited with 0 +++
+3262835 18:51:22.791853 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265814, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265815 18:51:22.812429 +++ exited with 0 +++
+3265813 18:51:22.812801 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265815, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265813 18:51:22.823180 +++ exited with 0 +++
+3262826 18:51:22.823335 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265813, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3265817 18:51:22.850517 +++ exited with 0 +++
+3265816 18:51:22.850688 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265817, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265832 18:51:22.905972 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887910 /* 63 vars */) = 0
+3265834 18:51:22.918475 execve("/usr/bin/sed", ["sed", "-n", "s/^adapter=//p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265835 18:51:22.922745 execve("/usr/bin/head", ["head", "-1"], 0x5e6515043700 /* 63 vars */) = 0
+3265834 18:51:23.107323 +++ exited with 0 +++
+3265835 18:51:23.115415 +++ exited with 0 +++
+3265816 18:51:23.128853 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265834, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3265816 18:51:23.131279 +++ exited with 0 +++
+3262835 18:51:23.132205 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265816, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3265886 18:51:23.266878 execve("/usr/bin/head", ["head", "-1"], 0x5e6515043700 /* 63 vars */ <unfinished ...>
+3265892 18:51:23.280682 +++ exited with 0 +++
+3265883 18:51:23.280988 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265892, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3265886 18:51:23.281454 <... execve resumed>) = 0
+3265883 18:51:23.349682 execve("/usr/bin/sed", ["sed", "-n", "s/^kind=//p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3265832 18:51:23.621721 +++ exited with 0 +++
+3262826 18:51:23.625902 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265832, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=15 /* 0.15 s */} ---
+3265883 18:51:23.662134 +++ exited with 0 +++
+3265886 18:51:23.664331 +++ exited with 0 +++
+3265878 18:51:23.667377 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265883, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3265878 18:51:23.670411 +++ exited with 0 +++
+3262835 18:51:23.672197 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3265878, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266012 18:51:23.676001 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887930 /* 63 vars */) = 0
+3266039 18:51:23.790629 +++ exited with 0 +++
+3262835 18:51:23.790975 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266039, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266063 18:51:23.866233 execve("/usr/bin/sed", ["sed", "-n", "2p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e65150450a0 /* 63 vars */) = 0
+3266012 18:51:23.899880 +++ exited with 0 +++
+3262826 18:51:23.900822 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266012, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266082 18:51:24.015261 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3266063 18:51:24.119752 +++ exited with 0 +++
+3262835 18:51:24.120271 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266063, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3266084 18:51:24.178851 +++ exited with 0 +++
+3266082 18:51:24.182436 +++ exited with 0 +++
+3262835 18:51:24.184043 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266084, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3262826 18:51:24.184999 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266082, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3266093 18:51:24.224669 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3266097 18:51:24.344295 execve("/usr/bin/head", ["head", "-1"], 0x5e6515043700 /* 63 vars */ <unfinished ...>
+3266096 18:51:24.346732 execve("/usr/bin/sed", ["sed", "-n", "s/^argc=//p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */ <unfinished ...>
+3266097 18:51:24.346921 <... execve resumed>) = 0
+3266096 18:51:24.349711 <... execve resumed>) = 0
+3266096 18:51:24.484800 +++ exited with 0 +++
+3266097 18:51:24.505411 +++ exited with 0 +++
+3266095 18:51:24.508241 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266096, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3266095 18:51:24.528213 +++ exited with 0 +++
+3262835 18:51:24.529412 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266095, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266109 18:51:24.633653 execve("/usr/bin/sed", ["sed", "-n", "/^argv:$/,$p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515043700 /* 63 vars */) = 0
+3266111 18:51:24.637266 execve("/usr/bin/tail", ["tail", "-n", "+2"], 0x5e6515043700 /* 63 vars */) = 0
+3266109 18:51:24.799188 +++ exited with 0 +++
+3266111 18:51:24.803471 +++ exited with 0 +++
+3266100 18:51:24.808111 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266109, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266100 18:51:24.819239 +++ exited with 0 +++
+3262835 18:51:24.819579 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266100, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266148 18:51:24.857517 +++ exited with 0 +++
+3262835 18:51:24.858035 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266148, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266154 18:51:24.930865 +++ exited with 0 +++
+3262835 18:51:24.931058 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266154, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266170 18:51:25.090336 execve("/usr/bin/uname", ["uname"], 0x5e6514cda800 /* 63 vars */) = 0
+3266170 18:51:25.169659 +++ exited with 0 +++
+3266167 18:51:25.169909 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266170, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266185 18:51:25.211028 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3266185 18:51:25.340414 +++ exited with 0 +++
+3266167 18:51:25.347527 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266185, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266167 18:51:25.352923 +++ exited with 0 +++
+3266158 18:51:25.353110 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266167, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266093 18:51:25.382284 +++ exited with 0 +++
+3262826 18:51:25.385957 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266093, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266211 18:51:25.555996 execve("/usr/bin/uname", ["uname"], 0x5e6514cda800 /* 63 vars */) = 0
+3266255 18:51:25.612144 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3266211 18:51:25.759892 +++ exited with 0 +++
+3266205 18:51:25.760130 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266211, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3266255 18:51:25.780353 +++ exited with 0 +++
+3266217 18:51:25.781087 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266255, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266217 18:51:25.788053 +++ exited with 0 +++
+3266210 18:51:25.789110 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266217, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266326 18:51:25.806995 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3266326 18:51:25.932175 +++ exited with 0 +++
+3266205 18:51:25.934212 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266326, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266205 18:51:25.935728 +++ exited with 0 +++
+3266158 18:51:25.935872 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266205, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266158 18:51:25.947954 +++ exited with 0 +++
+3262835 18:51:25.948082 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266158, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266382 18:51:26.060418 execve("/usr/bin/cat", ["cat", "/proc/3262835/stat"], 0x5e6515045000 /* 63 vars */) = 0
+3266389 18:51:26.191266 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3266406 18:51:26.199552 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3266382 18:51:26.211214 +++ exited with 0 +++
+3266367 18:51:26.212281 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266382, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266367 18:51:26.215975 +++ exited with 0 +++
+3266363 18:51:26.216705 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266367, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266389 18:51:26.349717 +++ exited with 0 +++
+3266406 18:51:26.366146 +++ exited with 0 +++
+3266387 18:51:26.374323 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266389, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266387 18:51:26.392706 +++ exited with 0 +++
+3266210 18:51:26.394195 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266387, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266210 18:51:26.422489 +++ exited with 0 +++
+3262826 18:51:26.423417 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266210, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3266481 18:51:26.505977 +++ exited with 0 +++
+3262826 18:51:26.507156 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266481, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266508 18:51:26.560386 +++ exited with 0 +++
+3266504 18:51:26.560561 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266508, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266504 18:51:26.587028 +++ exited with 0 +++
+3262826 18:51:26.587114 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266504, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266518 18:51:26.652789 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838878a0 /* 63 vars */) = 0
+3266521 18:51:26.676055 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262835/cmdline"], 0x5e6515045000 /* 63 vars */) = 0
+3266522 18:51:26.684156 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e6515045000 /* 63 vars */) = 0
+3266521 18:51:26.822421 +++ exited with 0 +++
+3266522 18:51:26.833396 +++ exited with 0 +++
+3266517 18:51:26.837895 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266521, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266517 18:51:26.840709 +++ exited with 0 +++
+3266363 18:51:26.841015 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266517, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266363 18:51:26.851689 +++ exited with 0 +++
+3262835 18:51:26.851964 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266363, si_uid=1000, si_status=0, si_utime=0, si_stime=10 /* 0.10 s */} ---
+3266529 18:51:26.880972 +++ exited with 0 +++
+3262835 18:51:26.882403 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266529, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266533 18:51:26.950115 +++ exited with 0 +++
+3266530 18:51:26.950810 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266533, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266530 18:51:26.959957 +++ exited with 0 +++
+3262835 18:51:26.960342 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266530, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266538 18:51:27.081561 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */ <unfinished ...>
+3266518 18:51:27.087372 +++ exited with 0 +++
+3266538 18:51:27.088040 <... execve resumed>) = 0
+3262826 18:51:27.088069 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266518, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=14 /* 0.14 s */} ---
+3266562 18:51:27.147375 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887850 /* 63 vars */) = 0
+3266538 18:51:27.184610 +++ exited with 0 +++
+3262835 18:51:27.185151 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266538, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266562 18:51:27.265928 +++ exited with 0 +++
+3262826 18:51:27.266727 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266562, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266573 18:51:27.286576 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3266572 18:51:27.289106 +++ exited with 0 +++
+3266571 18:51:27.290243 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266572, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266574 18:51:27.322878 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515060170 /* 63 vars */) = 0
+3266573 18:51:27.374548 +++ exited with 0 +++
+3262826 18:51:27.376055 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266573, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266576 18:51:27.394149 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3266574 18:51:27.397774 +++ exited with 0 +++
+3266571 18:51:27.397823 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266574, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266578 18:51:27.518412 execve("/usr/bin/uname", ["uname"], 0x5e6515060b50 /* 63 vars */) = 0
+3266578 18:51:27.616804 +++ exited with 0 +++
+3266577 18:51:27.617672 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266578, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266583 18:51:27.656935 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514cda800 /* 63 vars */) = 0
+3266583 18:51:27.926029 +++ exited with 0 +++
+3266577 18:51:27.931795 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266583, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3266577 18:51:27.933837 +++ exited with 0 +++
+3266571 18:51:27.935101 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266577, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266625 18:51:28.006995 +++ exited with 0 +++
+3266571 18:51:28.007956 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266625, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266663 18:51:28.262387 +++ exited with 0 +++
+3266631 18:51:28.262518 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266663, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3266631 18:51:28.267919 +++ exited with 0 +++
+3266571 18:51:28.268307 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266631, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266571 18:51:28.275149 +++ exited with 0 +++
+3266570 18:51:28.275848 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266571, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266709 18:51:28.333208 execve("/usr/bin/uname", ["uname"], 0x5e6514cda800 /* 63 vars */) = 0
+3266709 18:51:28.455229 +++ exited with 0 +++
+3266706 18:51:28.455421 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266709, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266744 18:51:28.494524 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514cda800 /* 63 vars */) = 0
+3266576 18:51:28.536599 +++ exited with 0 +++
+3262826 18:51:28.551335 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266576, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266744 18:51:28.646362 +++ exited with 0 +++
+3266706 18:51:28.647970 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266744, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266706 18:51:28.656568 +++ exited with 0 +++
+3266570 18:51:28.658519 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266706, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266765 18:51:28.708838 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3266766 18:51:28.775749 execve("/usr/bin/uname", ["uname"], 0x5e6514cda800 /* 63 vars */) = 0
+3266765 18:51:28.885149 +++ exited with 0 +++
+3266763 18:51:28.891234 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266765, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266763 18:51:28.901167 +++ exited with 0 +++
+3266761 18:51:28.902202 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266763, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266766 18:51:28.914319 +++ exited with 0 +++
+3266764 18:51:28.914486 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266766, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266795 18:51:28.952382 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514cda800 /* 63 vars */) = 0
+3266795 18:51:29.084882 +++ exited with 0 +++
+3266764 18:51:29.086206 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266795, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3266764 18:51:29.089876 +++ exited with 0 +++
+3266570 18:51:29.092775 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266764, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266812 18:51:29.177075 execve("/usr/bin/uname", ["uname"], 0x5e6514cda800 /* 63 vars */) = 0
+3266847 18:51:29.356367 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3266846 18:51:29.362467 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3266847 18:51:29.382310 <... execve resumed>) = 0
+3266812 18:51:29.385239 +++ exited with 0 +++
+3266846 18:51:29.387381 <... execve resumed>) = 0
+3266809 18:51:29.392292 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266812, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266881 18:51:29.516284 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6514cda800 /* 63 vars */) = 0
+3266846 18:51:29.521819 +++ exited with 0 +++
+3266847 18:51:29.530329 +++ exited with 0 +++
+3266831 18:51:29.534266 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266846, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3266831 18:51:29.547067 +++ exited with 0 +++
+3266761 18:51:29.547808 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266831, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266761 18:51:29.566169 +++ exited with 0 +++
+3262826 18:51:29.566305 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266761, si_uid=1000, si_status=0, si_utime=0, si_stime=13 /* 0.13 s */} ---
+3266902 18:51:29.605365 +++ exited with 0 +++
+3262826 18:51:29.605558 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266902, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266881 18:51:29.677066 +++ exited with 0 +++
+3266809 18:51:29.681144 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266881, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3266809 18:51:29.694804 +++ exited with 0 +++
+3266570 18:51:29.695002 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266809, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266918 18:51:29.706669 +++ exited with 0 +++
+3266908 18:51:29.706969 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266918, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3266570 18:51:29.710185 +++ exited with 0 +++
+3262835 18:51:29.710842 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266570, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3266908 18:51:29.724715 +++ exited with 0 +++
+3262826 18:51:29.726193 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266908, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3266950 18:51:29.770742 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838879d0 /* 63 vars */) = 0
+3266954 18:51:29.857118 execve("/usr/bin/chmod", ["chmod", "0600", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3266954 18:51:30.349502 +++ exited with 0 +++
+3262835 18:51:30.353990 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266954, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267058 18:51:30.419276 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3266950 18:51:30.473454 +++ exited with 0 +++
+3262826 18:51:30.473798 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3266950, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3267058 18:51:30.473855 +++ exited with 0 +++
+3262835 18:51:30.499885 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267058, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267092 18:51:30.602816 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887a20 /* 63 vars */) = 0
+3267106 18:51:30.620319 +++ exited with 0 +++
+3267103 18:51:30.628700 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267106, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267103 18:51:30.636049 +++ exited with 0 +++
+3262835 18:51:30.636176 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267103, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267092 18:51:30.772968 +++ exited with 0 +++
+3262826 18:51:30.790076 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267092, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267157 18:51:30.818507 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3267158 18:51:30.915966 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267157 18:51:30.972608 +++ exited with 0 +++
+3267158 18:51:30.992633 +++ exited with 0 +++
+3267143 18:51:30.993423 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267158, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267143 18:51:30.999504 +++ exited with 0 +++
+3267123 18:51:31.000394 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267143, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262826 18:51:31.026688 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267157, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267123 18:51:31.061953 +++ exited with 0 +++
+3262835 18:51:31.070412 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267123, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267208 18:51:31.074177 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3267252 18:51:31.328138 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267252 18:51:31.393817 +++ exited with 0 +++
+3267230 18:51:31.394433 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267252, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267230 18:51:31.395349 +++ exited with 0 +++
+3262835 18:51:31.396268 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267230, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267330 18:51:31.522055 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267330 18:51:31.648979 +++ exited with 0 +++
+3267265 18:51:31.652860 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267330, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267265 18:51:31.655849 +++ exited with 0 +++
+3262835 18:51:31.656137 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267265, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267396 18:51:31.698704 execve("/usr/bin/rm", ["rm", "-f", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267396 18:51:31.877730 +++ exited with 0 +++
+3262835 18:51:31.896911 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267396, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3267417 18:51:31.916879 execve("/usr/bin/rm", ["rm", "-f", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267417 18:51:31.973653 +++ exited with 0 +++
+3262835 18:51:31.980024 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267417, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267427 18:51:32.025151 execve("/usr/bin/rmdir", ["rmdir", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 63 vars */) = 0
+3267208 18:51:32.172802 +++ exited with 0 +++
+3262826 18:51:32.197003 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267208, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267427 18:51:32.252007 +++ exited with 0 +++
+3262835 18:51:32.265096 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267427, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3267454 18:51:32.519542 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3267463 18:51:32.581076 execve("/usr/bin/cat", ["cat", "/proc/3262835/stat"], 0x5e6515045000 /* 64 vars */) = 0
+3267454 18:51:32.720353 +++ exited with 0 +++
+3267439 18:51:32.739775 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267454, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3267439 18:51:32.743424 +++ exited with 0 +++
+3267438 18:51:32.745505 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267439, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267463 18:51:32.762777 +++ exited with 0 +++
+3267451 18:51:32.769072 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267463, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267451 18:51:32.779026 +++ exited with 0 +++
+3267440 18:51:32.779196 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267451, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267542 18:51:33.254351 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262835/cmdline"], 0x5e6515045000 /* 64 vars */) = 0
+3267544 18:51:33.259048 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e6515045000 /* 64 vars */) = 0
+3267549 18:51:33.261374 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3267552 18:51:33.283881 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3267549 18:51:33.392699 +++ exited with 0 +++
+3267552 18:51:33.401002 +++ exited with 0 +++
+3267540 18:51:33.409732 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267549, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267540 18:51:33.414351 +++ exited with 0 +++
+3267438 18:51:33.417153 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267540, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267542 18:51:33.419559 +++ exited with 0 +++
+3267544 18:51:33.423859 +++ exited with 0 +++
+3267534 18:51:33.427068 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267542, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267534 18:51:33.431751 +++ exited with 0 +++
+3267440 18:51:33.435238 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267534, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267438 18:51:33.447063 +++ exited with 0 +++
+3262826 18:51:33.449081 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267438, si_uid=1000, si_status=0, si_utime=0, si_stime=13 /* 0.13 s */} ---
+3267440 18:51:33.465849 +++ exited with 0 +++
+3262835 18:51:33.499331 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267440, si_uid=1000, si_status=0, si_utime=0, si_stime=14 /* 0.14 s */} ---
+3267630 18:51:33.530826 +++ exited with 0 +++
+3262826 18:51:33.532479 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267630, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267628 18:51:33.624846 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3267654 18:51:33.651452 +++ exited with 0 +++
+3267648 18:51:33.651703 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267654, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267648 18:51:33.670760 +++ exited with 0 +++
+3262826 18:51:33.672143 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267648, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267673 18:51:33.747223 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887a70 /* 63 vars */) = 0
+3267628 18:51:33.756851 +++ exited with 0 +++
+3262835 18:51:33.757204 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267628, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3267692 18:51:33.807782 execve("/usr/bin/perl", ["perl", "-e", "my $mode = shift @ARGV;\n    defi"..., "detach", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x5e6515045000 /* 64 vars */) = 0
+3267702 18:51:33.811264 execve("/usr/bin/seq", ["seq", "1", "50"], 0x5e6515045000 /* 64 vars */) = 0
+3267702 18:51:33.949875 +++ exited with 0 +++
+3262835 18:51:33.950063 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267702, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267751 18:51:34.034292 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */ <unfinished ...>
+3267752 18:51:34.034426 execve("/home/ubuntu/.no-mistakes/worktrees/def584fb9f7e/01M4ZFVFSPPFS7TRB41XMZMYNV/bin/fm-procevent.sh", ["/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x5c440ee5ff80 /* 65 vars */) = 0
+3267751 18:51:34.036897 <... execve resumed>) = 0
+3267692 18:51:34.090351 +++ exited with 0 +++
+3267673 18:51:34.152075 +++ exited with 0 +++
+3262826 18:51:34.155157 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267673, si_uid=1000, si_status=0, si_utime=2 /* 0.02 s */, si_stime=9 /* 0.09 s */} ---
+3267752 18:51:34.196983 execve("/home/ubuntu/.bun/install/global/node_modules/@openai/codex-linux-x64/vendor/x86_64-unknown-linux-musl/codex-path/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.197503 execve("/home/ubuntu/.grok/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.197885 execve("/home/ubuntu/.npm-global/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.198290 execve("/home/ubuntu/.clawdbot/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.198714 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.199066 execve("/home/ubuntu/.atuin/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.205893 execve("/home/ubuntu/go/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.207573 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.208665 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.211549 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.212226 execve("/home/ubuntu/.local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.214746 execve("/home/ubuntu/.cargo/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.215397 execve("/usr/local/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.215852 execve("/usr/local/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.216070 execve("/usr/sbin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = -1 ENOENT (No such file or directory)
+3267752 18:51:34.216228 execve("/usr/bin/bash", ["bash", "/home/ubuntu/.no-mistakes/worktr"..., "_owner-watchdog", "watchdog-cache", "3262835", "linux-starttime=57171430 cmdline"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "35", "3242239"], 0x7fffda2eab40 /* 65 vars */) = 0
+3267751 18:51:34.251933 +++ exited with 0 +++
+3262835 18:51:34.259875 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267692, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3267760 18:51:34.267149 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887ac0 /* 63 vars */) = 0
+3267771 18:51:34.314688 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267760 18:51:34.410809 +++ exited with 0 +++
+3262826 18:51:34.410948 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267760, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267785 18:51:34.477485 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x57555c50bee0 /* 65 vars */ <unfinished ...>
+3267795 18:51:34.478248 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3267785 18:51:34.481171 <... execve resumed>) = 0
+3267795 18:51:34.481265 <... execve resumed>) = 0
+3267771 18:51:34.501547 +++ exited with 0 +++
+3262835 18:51:34.510046 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267771, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267808 18:51:34.550840 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267785 18:51:34.610231 +++ exited with 0 +++
+3267779 18:51:34.614050 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267785, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267795 18:51:34.649602 +++ exited with 0 +++
+3262826 18:51:34.657154 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267795, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3267779 18:51:34.668155 +++ exited with 0 +++
+3267752 18:51:34.671488 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267779, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267858 18:51:34.679146 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3267864 18:51:34.702987 +++ exited with 0 +++
+3267752 18:51:34.704179 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267864, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267808 18:51:34.780346 +++ exited with 0 +++
+3262835 18:51:34.788278 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267808, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267889 18:51:34.803321 +++ exited with 0 +++
+3267752 18:51:34.803649 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267889, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267893 18:51:34.809656 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267896 18:51:34.827927 +++ exited with 0 +++
+3267752 18:51:34.832410 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267896, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267909 18:51:34.964061 execve("/usr/bin/uname", ["uname"], 0x57555c5108a0 /* 65 vars */) = 0
+3267893 18:51:35.007702 +++ exited with 0 +++
+3262835 18:51:35.017457 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267893, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267909 18:51:35.038070 +++ exited with 0 +++
+3267915 18:51:35.040953 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */ <unfinished ...>
+3267900 18:51:35.042485 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267909, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267915 18:51:35.047390 <... execve resumed>) = 0
+3267900 18:51:35.052054 +++ exited with 0 +++
+3267752 18:51:35.053303 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267900, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267920 18:51:35.125960 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c5108a0 /* 65 vars */) = 0
+3267920 18:51:35.252214 +++ exited with 0 +++
+3267752 18:51:35.253221 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267920, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267915 18:51:35.301171 +++ exited with 0 +++
+3262835 18:51:35.304254 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267915, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267944 18:51:35.348402 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267953 18:51:35.398273 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x57555c5c9290 /* 65 vars */) = 0
+3267953 18:51:35.522096 +++ exited with 0 +++
+3267949 18:51:35.525070 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267953, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267949 18:51:35.549108 +++ exited with 0 +++
+3267752 18:51:35.549326 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267949, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267944 18:51:35.562767 +++ exited with 0 +++
+3262835 18:51:35.568567 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267944, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267962 18:51:35.619975 +++ exited with 0 +++
+3267752 18:51:35.626351 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267962, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267961 18:51:35.626515 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267963 18:51:35.660312 +++ exited with 0 +++
+3267752 18:51:35.660704 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267963, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3267980 18:51:35.792553 execve("/usr/bin/uname", ["uname"], 0x57555c5c91b0 /* 65 vars */) = 0
+3267858 18:51:35.805153 +++ exited with 0 +++
+3262826 18:51:35.812220 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267858, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3267980 18:51:35.896151 +++ exited with 0 +++
+3267975 18:51:35.899164 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267980, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267986 18:51:35.910246 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3267961 18:51:35.910762 +++ exited with 0 +++
+3267975 18:51:35.911562 +++ exited with 0 +++
+3262835 18:51:35.911687 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267961, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3267752 18:51:35.911726 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267975, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267986 18:51:35.912981 <... execve resumed>) = 0
+3267988 18:51:35.927272 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c5c91b0 /* 65 vars */) = 0
+3267987 18:51:35.935262 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3267988 18:51:36.097404 +++ exited with 0 +++
+3267752 18:51:36.103219 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267988, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3267986 18:51:36.205391 +++ exited with 0 +++
+3267984 18:51:36.216079 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267986, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3267984 18:51:36.229503 +++ exited with 0 +++
+3267983 18:51:36.230508 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267984, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3267987 18:51:36.339761 +++ exited with 0 +++
+3262835 18:51:36.351038 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267987, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268034 18:51:36.400226 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x57555c5c91b0 /* 65 vars */) = 0
+3268065 18:51:36.408168 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268034 18:51:36.542218 +++ exited with 0 +++
+3268008 18:51:36.542373 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268034, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3268008 18:51:36.567815 +++ exited with 0 +++
+3267752 18:51:36.568014 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268008, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268096 18:51:36.638397 +++ exited with 0 +++
+3267752 18:51:36.638536 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268096, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268065 18:51:36.690520 +++ exited with 0 +++
+3262835 18:51:36.690805 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268065, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3268110 18:51:36.730733 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268122 18:51:36.789387 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3268131 18:51:36.797398 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3268143 18:51:36.810023 execve("/usr/bin/dirname", ["dirname", "/home/ubuntu/.no-mistakes/worktr"...], 0x57555c5c33e0 /* 65 vars */) = 0
+3268143 18:51:36.883963 +++ exited with 0 +++
+3268122 18:51:36.884077 +++ exited with 0 +++
+3268126 18:51:36.884108 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268143, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268126 18:51:36.888500 +++ exited with 0 +++
+3267752 18:51:36.889105 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268126, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268131 18:51:36.897575 +++ exited with 0 +++
+3268109 18:51:36.904516 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268122, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3268109 18:51:36.911241 +++ exited with 0 +++
+3267983 18:51:36.912686 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268109, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3267983 18:51:36.930700 +++ exited with 0 +++
+3262826 18:51:36.931137 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3267983, si_uid=1000, si_status=0, si_utime=0, si_stime=10 /* 0.10 s */} ---
+3268146 18:51:36.933684 +++ exited with 0 +++
+3267752 18:51:36.934323 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268146, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268110 18:51:36.961373 +++ exited with 0 +++
+3262835 18:51:36.964008 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268110, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3268148 18:51:36.967506 +++ exited with 0 +++
+3262826 18:51:36.967927 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268148, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268149 18:51:36.977688 +++ exited with 0 +++
+3267752 18:51:36.979720 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268149, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268150 18:51:37.000500 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268159 18:51:37.074088 +++ exited with 0 +++
+3268151 18:51:37.075164 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268159, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268160 18:51:37.103176 +++ exited with 0 +++
+3268158 18:51:37.105550 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268160, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268151 18:51:37.112371 +++ exited with 0 +++
+3262826 18:51:37.115906 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268151, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268162 18:51:37.150227 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838878a0 /* 63 vars */) = 0
+3268164 18:51:37.173985 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c7932e0 /* 65 vars */) = 0
+3268164 18:51:37.280713 +++ exited with 0 +++
+3268161 18:51:37.283120 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268164, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268161 18:51:37.284708 +++ exited with 0 +++
+3268158 18:51:37.284810 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268161, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268150 18:51:37.311318 +++ exited with 0 +++
+3262835 18:51:37.315612 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268150, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268185 18:51:37.397503 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268184 18:51:37.464851 execve("/usr/bin/uname", ["uname"], 0x57555c791110 /* 65 vars */) = 0
+3268184 18:51:37.750901 +++ exited with 0 +++
+3268183 18:51:37.752399 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268184, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3268185 18:51:37.871825 +++ exited with 0 +++
+3262835 18:51:37.897705 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268185, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3268162 18:51:37.903975 +++ exited with 0 +++
+3262826 18:51:37.911195 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268162, si_uid=1000, si_status=0, si_utime=2 /* 0.02 s */, si_stime=15 /* 0.15 s */} ---
+3268237 18:51:37.926394 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268227 18:51:38.008815 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c7932e0 /* 65 vars */) = 0
+3268252 18:51:38.118202 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887870 /* 63 vars */) = 0
+3268227 18:51:38.208708 +++ exited with 0 +++
+3268183 18:51:38.220464 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268227, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3268183 18:51:38.245722 +++ exited with 0 +++
+3268158 18:51:38.246425 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268183, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3268237 18:51:38.255992 +++ exited with 0 +++
+3262835 18:51:38.256446 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268237, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3268252 18:51:38.275122 +++ exited with 0 +++
+3262826 18:51:38.276209 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268252, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268286 18:51:38.310491 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268295 18:51:38.375732 +++ exited with 0 +++
+3268158 18:51:38.377549 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268295, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3268302 18:51:38.415342 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3268302 18:51:38.675144 +++ exited with 0 +++
+3262826 18:51:38.686757 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268302, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268323 18:51:38.703626 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3268346 18:51:38.924579 +++ exited with 0 +++
+3268316 18:51:38.926204 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268346, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268316 18:51:38.949683 +++ exited with 0 +++
+3268158 18:51:38.951132 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268316, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268286 18:51:38.973729 +++ exited with 0 +++
+3262835 18:51:39.136415 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268286, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3268158 18:51:39.163292 +++ exited with 0 +++
+3267752 18:51:39.176193 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268158, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268403 18:51:39.234041 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268441 18:51:39.272489 +++ exited with 0 +++
+3267752 18:51:39.294025 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268441, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268403 18:51:39.564830 +++ exited with 0 +++
+3262835 18:51:39.567239 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268403, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3268590 18:51:39.657978 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268611 18:51:39.723014 execve("/usr/bin/ps", ["ps", "-o", "pgid=", "-p", "3267752"], 0x57555c8520f0 /* 65 vars */) = 0
+3268625 18:51:39.873199 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x57555c8520f0 /* 65 vars */) = 0
+3268590 18:51:40.095019 +++ exited with 0 +++
+3262835 18:51:40.114939 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268590, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3268682 18:51:40.230877 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268323 18:51:40.332905 +++ exited with 0 +++
+3262826 18:51:40.334455 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268323, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3268705 18:51:40.415933 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3268682 18:51:40.503887 +++ exited with 0 +++
+3262835 18:51:40.507535 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268682, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3268709 18:51:40.548188 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268705 18:51:40.571624 +++ exited with 0 +++
+3268702 18:51:40.575821 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268705, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268702 18:51:40.583014 +++ exited with 0 +++
+3268697 18:51:40.583225 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268702, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3268709 18:51:40.812338 +++ exited with 0 +++
+3262835 18:51:40.824485 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268709, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268778 18:51:40.843687 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268780 18:51:40.970011 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3268781 18:51:40.993921 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3268780 18:51:41.193518 +++ exited with 0 +++
+3268781 18:51:41.199658 +++ exited with 0 +++
+3268779 18:51:41.203146 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268780, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3268779 18:51:41.206303 +++ exited with 0 +++
+3268697 18:51:41.207670 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268779, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268778 18:51:41.221727 +++ exited with 0 +++
+3268697 18:51:41.224323 +++ exited with 0 +++
+3262826 18:51:41.224499 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268697, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3262835 18:51:41.226765 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268778, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3268861 18:51:41.258859 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */ <unfinished ...>
+3268874 18:51:41.262993 +++ exited with 0 +++
+3262826 18:51:41.263112 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268874, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268861 18:51:41.265613 <... execve resumed>) = 0
+3268926 18:51:41.345171 +++ exited with 0 +++
+3268909 18:51:41.352722 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268926, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3268909 18:51:41.360359 +++ exited with 0 +++
+3262826 18:51:41.360533 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268909, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3268965 18:51:41.413739 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838878b0 /* 63 vars */) = 0
+3268861 18:51:41.508620 +++ exited with 0 +++
+3262835 18:51:41.513863 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268861, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269000 18:51:41.531504 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268965 18:51:41.678269 +++ exited with 0 +++
+3262826 18:51:41.680921 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268965, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=7 /* 0.07 s */} ---
+3269036 18:51:41.725492 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887890 /* 63 vars */) = 0
+3269000 18:51:41.761010 +++ exited with 0 +++
+3262835 18:51:41.765482 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269000, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269043 18:51:41.805279 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269036 18:51:41.822544 +++ exited with 0 +++
+3262826 18:51:41.822918 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269036, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269044 18:51:41.898058 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3269043 18:51:42.112572 +++ exited with 0 +++
+3262835 18:51:42.115525 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269043, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269044 18:51:42.135678 +++ exited with 0 +++
+3262826 18:51:42.137961 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269044, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269056 18:51:42.153868 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269059 18:51:42.163553 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3269056 18:51:42.416770 +++ exited with 0 +++
+3262835 18:51:42.420198 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269056, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269087 18:51:42.442887 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269087 18:51:42.703662 +++ exited with 0 +++
+3262835 18:51:42.708165 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269087, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269152 18:51:42.743789 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269152 18:51:43.036917 +++ exited with 0 +++
+3262835 18:51:43.037438 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269152, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269212 18:51:43.106231 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269212 18:51:43.332187 +++ exited with 0 +++
+3269059 18:51:43.333097 +++ exited with 0 +++
+3262826 18:51:43.342073 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269059, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3262835 18:51:43.343623 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269212, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269247 18:51:43.451784 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269257 18:51:43.586311 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3269257 18:51:43.728769 +++ exited with 0 +++
+3269251 18:51:43.733646 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269257, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3269251 18:51:43.743110 +++ exited with 0 +++
+3269247 18:51:43.743193 +++ exited with 0 +++
+3269248 18:51:43.744345 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269251, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262835 18:51:43.746203 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269247, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269293 18:51:43.842702 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269293 18:51:44.187450 +++ exited with 0 +++
+3262835 18:51:44.191085 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269293, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269357 18:51:44.222078 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3269356 18:51:44.223345 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3269357 18:51:44.223998 <... execve resumed>) = 0
+3269358 18:51:44.225088 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269356 18:51:44.233115 <... execve resumed>) = 0
+3269356 18:51:44.408487 +++ exited with 0 +++
+3269357 18:51:44.414024 +++ exited with 0 +++
+3269352 18:51:44.419340 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269356, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269352 18:51:44.422001 +++ exited with 0 +++
+3269248 18:51:44.422204 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269352, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3269248 18:51:44.434236 +++ exited with 0 +++
+3262826 18:51:44.435532 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269248, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3269453 18:51:44.486486 +++ exited with 0 +++
+3262826 18:51:44.486776 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269453, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3269358 18:51:44.516255 +++ exited with 0 +++
+3262835 18:51:44.522881 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269358, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269467 18:51:44.559437 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269468 18:51:44.568627 +++ exited with 0 +++
+3269460 18:51:44.568835 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269468, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3269460 18:51:44.588304 +++ exited with 0 +++
+3262826 18:51:44.588652 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269460, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3269479 18:51:44.658920 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838878c0 /* 63 vars */) = 0
+3269467 18:51:44.830497 +++ exited with 0 +++
+3262835 18:51:44.830691 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269467, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269503 18:51:44.851448 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269503 18:51:45.050587 +++ exited with 0 +++
+3262835 18:51:45.052052 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269503, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269479 18:51:45.055697 +++ exited with 0 +++
+3262826 18:51:45.056478 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269479, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=11 /* 0.11 s */} ---
+3269515 18:51:45.112882 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269519 18:51:45.126381 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27838878d0 /* 63 vars */) = 0
+3269519 18:51:45.251671 +++ exited with 0 +++
+3262826 18:51:45.251813 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269519, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269515 18:51:45.318893 +++ exited with 0 +++
+3269540 18:51:45.323153 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3262835 18:51:45.328368 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269515, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269540 18:51:45.329654 <... execve resumed>) = 0
+3269550 18:51:45.350235 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269540 18:51:45.415829 +++ exited with 0 +++
+3262826 18:51:45.421727 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269540, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269573 18:51:45.439691 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3269550 18:51:45.474221 +++ exited with 0 +++
+3262835 18:51:45.478356 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269550, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3269581 18:51:45.525085 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269581 18:51:45.836840 +++ exited with 0 +++
+3262835 18:51:45.845069 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269581, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269654 18:51:45.860699 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269654 18:51:46.110858 +++ exited with 0 +++
+3262835 18:51:46.113936 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269654, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269714 18:51:46.129557 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269714 18:51:46.398930 +++ exited with 0 +++
+3262835 18:51:46.400553 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269714, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3269775 18:51:46.420548 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269573 18:51:46.518377 +++ exited with 0 +++
+3262826 18:51:46.526146 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269573, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3269775 18:51:46.673894 +++ exited with 0 +++
+3262835 18:51:46.677501 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269775, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3269823 18:51:46.691299 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3269827 18:51:46.702957 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3269823 18:51:46.828564 +++ exited with 0 +++
+3269812 18:51:46.830058 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269823, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269812 18:51:46.835253 +++ exited with 0 +++
+3269805 18:51:46.836419 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269812, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3269827 18:51:46.931794 +++ exited with 0 +++
+3262835 18:51:46.935285 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269827, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3269870 18:51:47.103865 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270062 18:51:47.387682 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3269870 18:51:47.406105 +++ exited with 0 +++
+3262835 18:51:47.414623 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269870, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3270074 18:51:47.429707 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3270121 18:51:47.462022 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270062 18:51:47.736805 +++ exited with 0 +++
+3270074 18:51:47.757768 +++ exited with 0 +++
+3270050 18:51:47.766041 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270062, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3270050 18:51:47.776912 +++ exited with 0 +++
+3269805 18:51:47.777616 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270050, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3269805 18:51:47.810171 +++ exited with 0 +++
+3262826 18:51:47.811719 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3269805, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3270121 18:51:47.878183 +++ exited with 0 +++
+3262835 18:51:47.882961 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270121, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3270230 18:51:47.889866 +++ exited with 0 +++
+3262826 18:51:47.893427 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270230, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270234 18:51:47.937437 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270247 18:51:48.037687 +++ exited with 0 +++
+3270238 18:51:48.038771 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270247, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270238 18:51:48.068809 +++ exited with 0 +++
+3262826 18:51:48.069057 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270238, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3270266 18:51:48.125184 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887900 /* 63 vars */) = 0
+3270234 18:51:48.277412 +++ exited with 0 +++
+3262835 18:51:48.279056 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270234, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3270283 18:51:48.418066 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270266 18:51:48.824761 +++ exited with 0 +++
+3262826 18:51:48.828012 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270266, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=13 /* 0.13 s */} ---
+3270283 18:51:48.832855 +++ exited with 0 +++
+3262835 18:51:48.837195 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270283, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3270349 18:51:48.875795 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270348 18:51:48.890122 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887960 /* 63 vars */) = 0
+3270348 18:51:49.251560 +++ exited with 0 +++
+3262826 18:51:49.252559 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270348, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270436 18:51:49.310349 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3270349 18:51:49.321016 +++ exited with 0 +++
+3262835 18:51:49.331376 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270349, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3268611 18:51:49.404702 +++ exited with 0 +++
+3268625 18:51:49.408373 +++ exited with 0 +++
+3270482 18:51:49.411873 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3268606 18:51:49.420735 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268611, si_uid=1000, si_status=0, si_utime=8 /* 0.08 s */, si_stime=206 /* 2.06 s */} ---
+3268606 18:51:49.426835 +++ exited with 0 +++
+3267752 18:51:49.428702 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3268606, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3270532 18:51:49.500325 +++ exited with 0 +++
+3267752 18:51:49.500391 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270532, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270555 18:51:49.544155 +++ exited with 0 +++
+3267752 18:51:49.544569 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270555, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3270436 18:51:49.551348 +++ exited with 0 +++
+3262826 18:51:49.553896 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270436, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270569 18:51:49.570381 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3270576 18:51:49.608468 execve("/usr/bin/cat", ["cat", "/proc/3262835/stat"], 0x57555c8520f0 /* 64 vars */) = 0
+3270482 18:51:49.667036 +++ exited with 0 +++
+3262835 18:51:49.670883 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270482, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270588 18:51:49.711697 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270576 18:51:49.754538 +++ exited with 0 +++
+3270574 18:51:49.755179 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270576, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3270574 18:51:49.757881 +++ exited with 0 +++
+3270568 18:51:49.761289 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270574, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270588 18:51:49.897388 +++ exited with 0 +++
+3262835 18:51:49.907983 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270588, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3270626 18:51:49.970041 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270661 18:51:50.232434 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262835/cmdline"], 0x57555c8520f0 /* 64 vars */ <unfinished ...>
+3270666 18:51:50.236493 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x57555c8520f0 /* 64 vars */ <unfinished ...>
+3270661 18:51:50.238101 <... execve resumed>) = 0
+3270666 18:51:50.242947 <... execve resumed>) = 0
+3270661 18:51:50.333666 +++ exited with 0 +++
+3270666 18:51:50.344184 +++ exited with 0 +++
+3270655 18:51:50.352902 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270661, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270655 18:51:50.357312 +++ exited with 0 +++
+3270626 18:51:50.357386 +++ exited with 0 +++
+3270568 18:51:50.357569 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270655, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3262835 18:51:50.360029 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270626, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270568 18:51:50.387792 +++ exited with 0 +++
+3267752 18:51:50.388012 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270568, si_uid=1000, si_status=0, si_utime=0, si_stime=10 /* 0.10 s */} ---
+3270701 18:51:50.397476 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270708 18:51:50.591920 +++ exited with 0 +++
+3270705 18:51:50.592203 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270708, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3270569 18:51:50.625535 +++ exited with 0 +++
+3262826 18:51:50.626967 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270569, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3270701 18:51:50.717797 +++ exited with 0 +++
+3270749 18:51:50.718178 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c8520f0 /* 64 vars */ <unfinished ...>
+3262835 18:51:50.719808 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270701, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270749 18:51:50.721020 <... execve resumed>) = 0
+3270790 18:51:50.766798 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3270782 18:51:50.777001 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270749 18:51:50.827750 +++ exited with 0 +++
+3270731 18:51:50.834899 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270749, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3270731 18:51:50.837876 +++ exited with 0 +++
+3270705 18:51:50.838838 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270731, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3270790 18:51:50.901139 +++ exited with 0 +++
+3270771 18:51:50.905605 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270790, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3270771 18:51:50.911695 +++ exited with 0 +++
+3270740 18:51:50.912168 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270771, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3270782 18:51:51.073637 +++ exited with 0 +++
+3262835 18:51:51.097417 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270782, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3270887 18:51:51.105642 execve("/usr/bin/uname", ["uname"], 0x57555c858d90 /* 64 vars */) = 0
+3270914 18:51:51.205041 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270887 18:51:51.374786 +++ exited with 0 +++
+3270876 18:51:51.375469 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270887, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3270929 18:51:51.440771 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c8520f0 /* 64 vars */) = 0
+3270914 18:51:51.514096 +++ exited with 0 +++
+3262835 18:51:51.518369 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270914, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3270953 18:51:51.571283 execve("/usr/bin/sleep", ["sleep", "0.1"], 0x5e6515045000 /* 64 vars */) = 0
+3270959 18:51:51.607451 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3270952 18:51:51.609093 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3270959 18:51:51.614307 <... execve resumed>) = 0
+3270952 18:51:51.615439 <... execve resumed>) = 0
+3270929 18:51:51.650493 +++ exited with 0 +++
+3270876 18:51:51.670862 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270929, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270876 18:51:51.692835 +++ exited with 0 +++
+3270705 18:51:51.699112 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270876, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3270982 18:51:51.754015 +++ exited with 0 +++
+3270705 18:51:51.758025 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270982, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270953 18:51:51.871568 +++ exited with 0 +++
+3262835 18:51:51.887387 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270953, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270952 18:51:51.892022 +++ exited with 0 +++
+3270959 18:51:51.899888 +++ exited with 0 +++
+3270946 18:51:51.904375 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270952, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3270946 18:51:51.917247 +++ exited with 0 +++
+3270740 18:51:51.917446 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270946, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271004 18:51:51.934655 execve("/usr/bin/rm", ["rm", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3270740 18:51:51.948417 +++ exited with 0 +++
+3262826 18:51:51.948917 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270740, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3271014 18:51:52.008507 +++ exited with 0 +++
+3270992 18:51:52.009384 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271014, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271022 18:51:52.014918 +++ exited with 0 +++
+3262826 18:51:52.015052 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271022, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3270992 18:51:52.018749 +++ exited with 0 +++
+3270705 18:51:52.020435 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270992, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3270705 18:51:52.038431 +++ exited with 0 +++
+3270702 18:51:52.038867 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270705, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271004 18:51:52.054636 +++ exited with 0 +++
+3262835 18:51:52.057703 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271004, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3271030 18:51:52.058994 +++ exited with 0 +++
+3271029 18:51:52.059508 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271030, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271029 18:51:52.077104 +++ exited with 0 +++
+3262826 18:51:52.077937 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271029, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271041 18:51:52.159026 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838878a0 /* 63 vars */) = 0
+3271032 18:51:52.174203 execve("/usr/bin/uname", ["uname"], 0x57555c5084d0 /* 64 vars */) = 0
+3271043 18:51:52.259972 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271032 18:51:52.437763 +++ exited with 0 +++
+3271031 18:51:52.437973 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271032, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3271043 18:51:52.453868 +++ exited with 1 +++
+3271042 18:51:52.454825 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271043, si_uid=1000, si_status=1, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271042 18:51:52.459132 +++ exited with 0 +++
+3262835 18:51:52.459380 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271042, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271079 18:51:52.506208 +++ exited with 0 +++
+3262835 18:51:52.506391 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271079, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271078 18:51:52.510310 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c5084d0 /* 64 vars */) = 0
+3271083 18:51:52.623800 execve("/usr/bin/mkdir", ["mkdir", "-p", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271078 18:51:52.758384 +++ exited with 0 +++
+3271031 18:51:52.758908 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271078, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3271031 18:51:52.763603 +++ exited with 0 +++
+3270702 18:51:52.764359 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271031, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271041 18:51:52.799821 +++ exited with 0 +++
+3262826 18:51:52.801233 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271041, si_uid=1000, si_status=0, si_utime=2 /* 0.02 s */, si_stime=13 /* 0.13 s */} ---
+3271083 18:51:52.841535 +++ exited with 0 +++
+3262835 18:51:52.861367 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271083, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3271113 18:51:52.968103 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887860 /* 63 vars */) = 0
+3271122 18:51:53.003550 execve("/usr/bin/uname", ["uname"], 0x57555c5084d0 /* 64 vars */ <unfinished ...>
+3271128 18:51:53.003939 +++ exited with 0 +++
+3271126 18:51:53.004119 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271128, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271122 18:51:53.005988 <... execve resumed>) = 0
+3271126 18:51:53.016156 +++ exited with 0 +++
+3262835 18:51:53.017280 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271126, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271113 18:51:53.134566 +++ exited with 0 +++
+3262826 18:51:53.137755 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271113, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271147 18:51:53.141884 +++ exited with 0 +++
+3271122 18:51:53.145525 +++ exited with 0 +++
+3271130 18:51:53.147180 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271147, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271112 18:51:53.147255 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271122, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271130 18:51:53.162523 +++ exited with 0 +++
+3271129 18:51:53.166691 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271130, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271167 18:51:53.193410 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3271169 18:51:53.211014 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c5084d0 /* 64 vars */ <unfinished ...>
+3271168 18:51:53.212148 execve("/usr/bin/mktemp", ["mktemp", "-d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */ <unfinished ...>
+3271169 18:51:53.213836 <... execve resumed>) = 0
+3271168 18:51:53.215146 <... execve resumed>) = 0
+3271169 18:51:53.407040 +++ exited with 0 +++
+3271167 18:51:53.407268 +++ exited with 0 +++
+3262826 18:51:53.411734 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271167, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271112 18:51:53.413291 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271169, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271168 18:51:53.416143 +++ exited with 0 +++
+3271112 18:51:53.421540 +++ exited with 0 +++
+3271129 18:51:53.421733 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271168, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3270702 18:51:53.421769 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271112, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271129 18:51:53.427329 +++ exited with 0 +++
+3262835 18:51:53.429032 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271129, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271170 18:51:53.438364 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3271172 18:51:53.519274 execve("/usr/bin/uname", ["uname"], 0x57555c5084d0 /* 64 vars */) = 0
+3271174 18:51:53.532177 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271172 18:51:53.654916 +++ exited with 0 +++
+3271171 18:51:53.655129 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271172, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271174 18:51:53.676711 +++ exited with 0 +++
+3271173 18:51:53.677361 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271174, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271173 18:51:53.679763 +++ exited with 0 +++
+3262835 18:51:53.679928 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271173, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271176 18:51:53.707466 execve("/usr/bin/ln", ["ln", "-s", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271177 18:51:53.736303 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x57555c5084d0 /* 64 vars */) = 0
+3271177 18:51:53.838067 +++ exited with 0 +++
+3271171 18:51:53.840032 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271177, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271171 18:51:53.843044 +++ exited with 0 +++
+3271176 18:51:53.844908 +++ exited with 0 +++
+3270702 18:51:53.845645 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271171, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3270702 18:51:53.859169 +++ exited with 0 +++
+3267752 18:51:53.860996 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3270702, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3262835 18:51:53.861764 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271176, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3271213 18:51:54.198176 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271232 18:51:54.339091 +++ exited with 0 +++
+3271229 18:51:54.339453 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271232, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271229 18:51:54.385872 +++ exited with 0 +++
+3271210 18:51:54.390379 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271229, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271213 18:51:54.433248 +++ exited with 0 +++
+3271192 18:51:54.473798 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271213, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271192 18:51:54.509381 +++ exited with 0 +++
+3262835 18:51:54.514913 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271192, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271210 18:51:54.546264 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "\n    use strict;\n    use warning"..., "571760.988393"], 0x57555c8520f0 /* 64 vars */) = 0
+3271170 18:51:54.600429 +++ exited with 0 +++
+3262826 18:51:54.602017 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271170, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3271259 18:51:54.844445 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271261 18:51:54.903403 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3271259 18:51:55.046339 +++ exited with 0 +++
+3271256 18:51:55.051639 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271259, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271256 18:51:55.072345 +++ exited with 0 +++
+3262835 18:51:55.073951 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271256, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3271261 18:51:55.106478 +++ exited with 0 +++
+3271260 18:51:55.112686 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271261, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3271260 18:51:55.150751 +++ exited with 0 +++
+3271257 18:51:55.152703 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271260, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3271409 18:51:55.425706 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e6515045000 /* 64 vars */) = 0
+3271210 18:51:55.626223 +++ exited with 0 +++
+3267752 18:51:55.626663 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271210, si_uid=1000, si_status=0, si_utime=2 /* 0.02 s */, si_stime=20 /* 0.20 s */} ---
+3271409 18:51:55.885198 +++ exited with 0 +++
+3271552 18:51:55.887256 execve("/usr/bin/sleep", ["sleep", "7.5"], 0x57555c8520f0 /* 64 vars */) = 0
+3271336 18:51:55.900818 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271409, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3271336 18:51:55.906973 +++ exited with 0 +++
+3262835 18:51:55.915536 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271336, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3271574 18:51:56.082365 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3271589 18:51:56.093296 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3271574 18:51:56.118308 <... execve resumed>) = 0
+3271661 18:51:56.223984 +++ exited with 0 +++
+3271596 18:51:56.224300 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271661, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271596 18:51:56.239453 +++ exited with 0 +++
+3271574 18:51:56.239526 +++ exited with 0 +++
+3262835 18:51:56.242099 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271596, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271589 18:51:56.333332 +++ exited with 0 +++
+3271564 18:51:56.342127 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271574, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271564 18:51:56.346093 +++ exited with 0 +++
+3271257 18:51:56.346412 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271564, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3271257 18:51:56.376037 +++ exited with 0 +++
+3262826 18:51:56.377139 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271257, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3271684 18:51:56.387322 +++ exited with 0 +++
+3262826 18:51:56.388036 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271684, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271692 18:51:56.394975 +++ exited with 0 +++
+3271681 18:51:56.395225 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271692, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271681 18:51:56.402504 +++ exited with 0 +++
+3262835 18:51:56.403073 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271681, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271694 18:51:56.436900 +++ exited with 0 +++
+3271691 18:51:56.436983 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271694, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271691 18:51:56.439812 +++ exited with 0 +++
+3262826 18:51:56.439908 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271691, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271699 18:51:56.446424 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e27838879a0 /* 63 vars */) = 0
+3271700 18:51:56.496163 +++ exited with 0 +++
+3271698 18:51:56.498510 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271700, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271698 18:51:56.505048 +++ exited with 0 +++
+3262835 18:51:56.505217 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271698, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3271699 18:51:56.658913 +++ exited with 0 +++
+3262826 18:51:56.659119 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271699, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=5 /* 0.05 s */} ---
+3271754 18:51:56.715943 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887a10 /* 63 vars */) = 0
+3271765 18:51:56.933872 +++ exited with 0 +++
+3271760 18:51:56.936376 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271765, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3271754 18:51:57.049067 +++ exited with 0 +++
+3262826 18:51:57.049193 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271754, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3271823 18:51:57.094399 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3271877 18:51:57.257845 execve("/usr/bin/stat", ["stat", "-c", "%u", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3271823 18:51:57.362857 +++ exited with 0 +++
+3271877 18:51:57.372723 +++ exited with 0 +++
+3262826 18:51:57.374838 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271823, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3271798 18:51:57.375071 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271877, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271798 18:51:57.388879 +++ exited with 0 +++
+3271760 18:51:57.390272 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271798, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271998 18:51:57.395197 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3272084 18:51:57.503223 execve("/usr/bin/uname", ["uname"], 0x5e651505a8f0 /* 64 vars */) = 0
+3272084 18:51:57.597177 +++ exited with 0 +++
+3272035 18:51:57.598542 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272084, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272035 18:51:57.604499 +++ exited with 0 +++
+3272006 18:51:57.604808 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272035, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272159 18:51:57.685328 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3272159 18:51:57.826348 +++ exited with 0 +++
+3272006 18:51:57.828264 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272159, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3272006 18:51:57.829627 +++ exited with 0 +++
+3271760 18:51:57.829755 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272006, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272192 18:51:57.881744 +++ exited with 0 +++
+3271760 18:51:57.881905 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272192, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3272210 18:51:58.139684 +++ exited with 0 +++
+3272197 18:51:58.143015 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272210, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3272197 18:51:58.157202 +++ exited with 0 +++
+3271760 18:51:58.157372 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272197, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3271760 18:51:58.235463 +++ exited with 0 +++
+3271759 18:51:58.236306 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271760, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3272234 18:51:58.431914 execve("/usr/bin/uname", ["uname"], 0x5e651505a8f0 /* 64 vars */) = 0
+3271998 18:51:58.595078 +++ exited with 0 +++
+3262826 18:51:58.601812 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271998, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3272234 18:51:58.720350 +++ exited with 0 +++
+3272228 18:51:58.725099 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272234, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3272265 18:51:58.740903 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3272228 18:51:58.741048 +++ exited with 0 +++
+3272223 18:51:58.745484 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272228, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3272265 18:51:58.770758 <... execve resumed>) = 0
+3272287 18:51:59.132352 execve("/usr/bin/stat", ["stat", "-c", "%d", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3272265 18:51:59.157385 +++ exited with 0 +++
+3272263 18:51:59.168825 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272265, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3272263 18:51:59.174652 +++ exited with 0 +++
+3272262 18:51:59.177509 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272263, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3272287 18:51:59.211380 +++ exited with 0 +++
+3272223 18:51:59.212565 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272287, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272223 18:51:59.216883 +++ exited with 0 +++
+3271759 18:51:59.217116 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272223, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3272355 18:51:59.352145 execve("/usr/bin/uname", ["uname"], 0x5e651505a8f0 /* 64 vars */) = 0
+3272355 18:51:59.533447 +++ exited with 0 +++
+3272338 18:51:59.538388 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272355, si_uid=1000, si_status=0, si_utime=0, si_stime=8 /* 0.08 s */} ---
+3272338 18:51:59.544870 +++ exited with 0 +++
+3272332 18:51:59.546998 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272338, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272399 18:51:59.732351 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */) = 0
+3272421 18:51:59.771237 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3272453 18:51:59.842293 execve("/usr/bin/stat", ["stat", "-c", "%i", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3272453 18:52:00.303993 +++ exited with 0 +++
+3272332 18:52:00.309742 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272453, si_uid=1000, si_status=0, si_utime=0, si_stime=11 /* 0.11 s */} ---
+3272332 18:52:00.373160 +++ exited with 0 +++
+3271759 18:52:00.373242 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272332, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3272399 18:52:00.387768 +++ exited with 0 +++
+3272421 18:52:00.395672 +++ exited with 0 +++
+3272384 18:52:00.407664 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272399, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3272384 18:52:00.432453 +++ exited with 0 +++
+3272262 18:52:00.432765 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272384, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272262 18:52:00.449799 +++ exited with 0 +++
+3262826 18:52:00.449889 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272262, si_uid=1000, si_status=0, si_utime=0, si_stime=13 /* 0.13 s */} ---
+3272570 18:52:00.479337 +++ exited with 0 +++
+3262826 18:52:00.495111 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272570, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3272577 18:52:00.530028 +++ exited with 0 +++
+3272572 18:52:00.530789 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272577, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3272573 18:52:00.541080 execve("/usr/bin/uname", ["uname"], 0x5e651505a8f0 /* 64 vars */ <unfinished ...>
+3272572 18:52:00.544056 +++ exited with 0 +++
+3262826 18:52:00.544181 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272572, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3272573 18:52:00.544506 <... execve resumed>) = 0
+3272587 18:52:00.609973 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887940 /* 63 vars */) = 0
+3272573 18:52:00.731256 +++ exited with 0 +++
+3272564 18:52:00.739611 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272573, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272564 18:52:00.748662 +++ exited with 0 +++
+3272553 18:52:00.749242 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272564, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3272662 18:52:00.905986 execve("/usr/bin/stat", ["stat", "-c", "%a", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3272587 18:52:01.071359 +++ exited with 0 +++
+3262826 18:52:01.071422 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272587, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=6 /* 0.06 s */} ---
+3272775 18:52:01.101162 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e27838878f0 /* 63 vars */ <unfinished ...>
+3272662 18:52:01.102930 +++ exited with 0 +++
+3272553 18:52:01.104132 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272662, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272775 18:52:01.104633 <... execve resumed>) = 0
+3272553 18:52:01.115687 +++ exited with 0 +++
+3271759 18:52:01.116624 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272553, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3271759 18:52:01.125984 +++ exited with 0 +++
+3262835 18:52:01.126062 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271759, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3272775 18:52:01.147889 +++ exited with 0 +++
+3262826 18:52:01.148387 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272775, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272795 18:52:01.174906 execve("/usr/bin/mv", ["mv", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783881f40 /* 63 vars */) = 0
+3272825 18:52:01.277735 +++ exited with 0 +++
+3262835 18:52:01.280345 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272825, si_uid=1000, si_status=0, si_utime=0, si_stime=0} ---
+3272795 18:52:01.345443 +++ exited with 0 +++
+3272849 18:52:01.354286 execve("/usr/bin/rm", ["rm", "-f", "--", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */ <unfinished ...>
+3262826 18:52:01.355275 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272795, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272849 18:52:01.359737 <... execve resumed>) = 0
+3272855 18:52:01.366056 execve("/usr/bin/sleep", ["sleep", "1"], 0x5e2783881f40 /* 63 vars */) = 0
+3272849 18:52:01.527260 +++ exited with 0 +++
+3262835 18:52:01.536736 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272849, si_uid=1000, si_status=0, si_utime=0, si_stime=5 /* 0.05 s */} ---
+3272904 18:52:01.762575 +++ exited with 0 +++
+3272897 18:52:01.762866 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272904, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3272897 18:52:01.785562 +++ exited with 0 +++
+3262835 18:52:01.786459 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272897, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3272983 18:52:02.135325 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3272983 18:52:02.462114 +++ exited with 0 +++
+3272961 18:52:02.475285 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272983, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3272961 18:52:02.529545 +++ exited with 0 +++
+3272950 18:52:02.545403 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272961, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3272950 18:52:02.562203 +++ exited with 0 +++
+3272855 18:52:02.562271 +++ exited with 0 +++
+3262835 18:52:02.569719 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272950, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3262826 18:52:02.602253 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3272855, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273102 18:52:02.914059 execve("/usr/bin/cat", ["cat", "/proc/3262071/stat"], 0x5e2783881f40 /* 63 vars */) = 0
+3273165 18:52:03.140315 execve("/usr/bin/cat", ["cat", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3273102 18:52:03.243540 +++ exited with 0 +++
+3273054 18:52:03.251549 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273102, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273054 18:52:03.284117 +++ exited with 0 +++
+3273053 18:52:03.284255 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273054, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3273165 18:52:03.604404 +++ exited with 0 +++
+3273076 18:52:03.633061 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273165, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3273076 18:52:03.636263 +++ exited with 0 +++
+3262835 18:52:03.637834 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273076, si_uid=1000, si_status=0, si_utime=0, si_stime=3 /* 0.03 s */} ---
+3273432 18:52:03.720889 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262071/cmdline"], 0x5e2783881f40 /* 63 vars */ <unfinished ...>
+3271552 18:52:03.723848 +++ exited with 0 +++
+3273432 18:52:03.723914 <... execve resumed>) = 0
+3273442 18:52:03.724870 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x5e2783881f40 /* 63 vars */) = 0
+3267752 18:52:03.727286 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3271552, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273449 18:52:03.740271 execve("/usr/bin/readlink", ["readlink", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3273507 18:52:04.043400 execve("/usr/bin/cat", ["cat", "/proc/3262835/stat"], 0x57555c8520f0 /* 64 vars */) = 0
+3273432 18:52:04.053455 +++ exited with 0 +++
+3273442 18:52:04.076507 +++ exited with 0 +++
+3273415 18:52:04.088925 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273432, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273449 18:52:04.092003 +++ exited with 0 +++
+3273415 18:52:04.104688 +++ exited with 0 +++
+3273053 18:52:04.107195 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273415, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3273404 18:52:04.115728 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273449, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273404 18:52:04.129160 +++ exited with 0 +++
+3262835 18:52:04.129386 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273404, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3273053 18:52:04.150267 +++ exited with 0 +++
+3262826 18:52:04.154481 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273053, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3273548 18:52:04.256479 execve("/usr/bin/rm", ["rm", "-f", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */ <unfinished ...>
+3273558 18:52:04.277562 +++ exited with 0 +++
+3262826 18:52:04.279165 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273558, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3273574 18:52:04.401009 +++ exited with 0 +++
+3273569 18:52:04.401431 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273574, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3273548 18:52:04.444642 <... execve resumed>) = 0
+3273507 18:52:04.476685 +++ exited with 0 +++
+3273470 18:52:04.489192 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273507, si_uid=1000, si_status=0, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3273470 18:52:04.501022 +++ exited with 0 +++
+3273462 18:52:04.505923 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273470, si_uid=1000, si_status=0, si_utime=0, si_stime=4 /* 0.04 s */} ---
+3273569 18:52:04.539993 +++ exited with 0 +++
+3262826 18:52:04.543665 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273569, si_uid=1000, si_status=0, si_utime=0, si_stime=2 /* 0.02 s */} ---
+3273548 18:52:04.731721 +++ exited with 0 +++
+3273603 18:52:04.732707 execve("/usr/bin/perl", ["perl", "-MTime::HiRes=clock_gettime,CLOC"..., "-e", "printf \"%.6f\\n\", clock_gettime(C"...], 0x5e2783887af0 /* 63 vars */) = 0
+3262835 18:52:04.743823 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273548, si_uid=1000, si_status=0, si_utime=0, si_stime=17 /* 0.17 s */} ---
+3273627 18:52:04.798240 execve("/usr/bin/rm", ["rm", "-f", "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"..., "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3273627 18:52:05.479378 +++ exited with 0 +++
+3262835 18:52:05.510779 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273627, si_uid=1000, si_status=0, si_utime=0, si_stime=6 /* 0.06 s */} ---
+3273776 18:52:05.618398 execve("/usr/bin/rmdir", ["rmdir", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e651505a8f0 /* 64 vars */) = 0
+3273848 18:52:06.435471 execve("/usr/bin/od", ["od", "-An", "-v", "-tx1", "/proc/3262835/cmdline"], 0x57555c8520f0 /* 64 vars */ <unfinished ...>
+3273603 18:52:06.446524 +++ exited with 0 +++
+3262826 18:52:06.447527 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273603, si_uid=1000, si_status=0, si_utime=1 /* 0.01 s */, si_stime=17 /* 0.17 s */} ---
+3273848 18:52:06.458768 <... execve resumed>) = 0
+3273776 18:52:06.482342 +++ exited with 0 +++
+3273886 18:52:06.485220 execve("/usr/bin/mktemp", ["mktemp", "/tmp/fm-procevent-watchdog.FfYsM"...], 0x5e2783887aa0 /* 63 vars */) = 0
+3262835 18:52:06.502342 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273776, si_uid=1000, si_status=0, si_utime=0, si_stime=9 /* 0.09 s */} ---
+3273850 18:52:06.506712 execve("/usr/bin/tr", ["tr", "-d", "[:space:]"], 0x57555c8520f0 /* 64 vars */ <unfinished ...>
+3262835 18:52:06.512660 +++ exited with 1 +++
+3262833 18:52:06.513456 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262835, si_uid=1000, si_status=1, si_utime=11 /* 0.11 s */, si_stime=152 /* 1.52 s */} ---
+3273850 18:52:06.513493 <... execve resumed>) = 0
+3262833 18:52:06.824242 +++ exited with 1 +++
+3262071 18:52:06.836357 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3262833, si_uid=1000, si_status=1, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3262826 18:52:06.843174 --- SIGTERM {si_signo=SIGTERM, si_code=SI_USER, si_pid=3262071, si_uid=1000} ---
+3262826 18:52:06.895044 +++ killed by SIGTERM +++
+3262071 18:52:06.895129 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_KILLED, si_pid=3262826, si_uid=1000, si_status=SIGTERM, si_utime=5 /* 0.05 s */, si_stime=99 /* 0.99 s */} ---
+3262071 18:52:07.130492 +++ exited with 1 +++
+3273848 18:52:07.420667 +++ exited with 1 +++
+3273886 18:52:07.467201 --- SIGPIPE {si_signo=SIGPIPE, si_code=SI_USER, si_pid=3273886, si_uid=1000} ---
+3273886 18:52:07.569750 +++ killed by SIGPIPE +++
+3273850 18:52:07.591071 +++ exited with 0 +++
+3273845 18:52:07.635474 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273848, si_uid=1000, si_status=1, si_utime=0, si_stime=7 /* 0.07 s */} ---
+3273845 18:52:07.644674 +++ exited with 0 +++
+3273462 18:52:07.646760 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273845, si_uid=1000, si_status=0, si_utime=0, si_stime=1 /* 0.01 s */} ---
+3273462 18:52:07.916028 +++ exited with 1 +++
+3267752 18:52:07.918473 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=3273462, si_uid=1000, si_status=1, si_utime=0, si_stime=14 /* 0.14 s */} ---
+3267752 18:52:07.929093 +++ exited with 0 +++

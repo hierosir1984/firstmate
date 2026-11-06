@@ -1,0 +1,24 @@
+base=8b1618a49511d67b247f5f8091868b812bfcae2d
+head=aed78f3f956a3bdac3024804705c4c3a172dd22f
+oracle=whole-token corr=<id>; punctuation and whitespace delimit tokens; alphanumeric or underscore adjacency does not
+PASS base exact expected=match actual=match
+PASS base punctuation expected=match actual=match
+PASS base whitespace expected=match actual=match
+PASS base alphanumeric_prefix expected=miss actual=miss
+PASS base underscore_prefix expected=miss actual=miss
+PASS base alphanumeric_suffix expected=miss actual=miss
+PASS base underscore_suffix expected=miss actual=miss
+PASS base other_correlation expected=miss actual=miss
+PASS base unrelated_line expected=miss actual=miss
+PASS target exact expected=match actual=match
+PASS target punctuation expected=match actual=match
+PASS target whitespace expected=match actual=match
+PASS target alphanumeric_prefix expected=miss actual=miss
+PASS target underscore_prefix expected=miss actual=miss
+PASS target alphanumeric_suffix expected=miss actual=miss
+PASS target underscore_suffix expected=miss actual=miss
+PASS target other_correlation expected=miss actual=miss
+PASS target unrelated_line expected=miss actual=miss
+synthetic_status lines=4365 bytes=2077740
+PASS base absent-correlation scan elapsed_seconds=41.570 result=empty
+PASS target absent-correlation scan elapsed_seconds=1.700 result=empty
